@@ -1,0 +1,550 @@
+{"text": "Ricarica il fucile se durante lo scontro a fuoco hai possibilit\u00e0 di nasconderti . ", "target_word": "nascondere", "choices": [5, 4, 2, 6], "label": 3}
+{"text": "Appendere delle immagini alle pareti \u00e8 un ottimo modo per decorare e personalizzare uno spazio . ", "target_word": "decorare", "choices": [6, 5, 2, 3], "label": 0}
+{"text": "Quando una storia finisce , non cercare di negare l\u2019 evidenza aggrappandoti a false speranze . ", "target_word": "speranza", "choices": [3, 1, 2, 5], "label": 2}
+{"text": "Se hai la pelle unta ,un sapone specifico potrebbe aiutarti a produrre meno film lipidico , riducendo perci\u00f2 il problema . ", "target_word": "film", "choices": [3, 5, 6, 4], "label": 2}
+{"text": "Ideale per le feste in costume , il cappello \u00e8 facile da realizzare completamente in feltro . ", "target_word": "festa", "choices": [7, 1, 4, 5], "label": 3}
+{"text": "Non sprecare tempo nel tentativo di diventare una moglie migliore . ", "target_word": "moglie", "choices": [4, 2, 3, 5], "label": 0}
+{"text": "Esistono molte maniere per decorare questo spazio , rendendolo invitante e caldo . ", "target_word": "decorare", "choices": [2, 4, 6, 3], "label": 2}
+{"text": "Metti in discussione i pensieri negativi che riguardano il tuo corpo . ", "target_word": "pensiero", "choices": [4, 1, 5, 3], "label": 3}
+{"text": "Solo dopo aver migliorato la tua autostima potrai vincere la guerra contro il disturbo da alimentazione incontrollata . ", "target_word": "guerra", "choices": [6, 3, 4, 1], "label": 1}
+{"text": "Gli incubi innescano una risposta fisiologica , come accelerazione del battito cardiaco e sudorazione fredda . ", "target_word": "risposta", "choices": [1, 4, 6, 3], "label": 1}
+{"text": "Lo stress cronico pu\u00f2 distruggere le cellule cerebrali e danneggiare l' ippocampo . ", "target_word": "distruggere", "choices": [5, 4, 6, 7], "label": 0}
+{"text": "Lo zucchero fornir\u00e0 il nutrimento necessario al lievito per incoraggiarlo ad attivare il suo metabolismo . ", "target_word": "attivare", "choices": [1, 3, 4, 2], "label": 2}
+{"text": "Non infastidire e non molestare gli squali . ", "target_word": "infastidire", "choices": [2, 3, 4, 5], "label": 2}
+{"text": "Spesso la causa dell' otite \u00e8 un' infezione batterica , che avviene durante una malattia di base . ", "target_word": "causa", "choices": [2, 3, 4, 6], "label": 2}
+{"text": "Controlla costantemente il respiro e il polso fino all' intervento dell' unit\u00e0 di emergenza . ", "target_word": "unit\u00e0", "choices": [5, 6, 4, 3], "label": 0}
+{"text": "Il medico pu\u00f2 scegliere la terapia farmacologica in base alla tua storia clinica . ", "target_word": "storia", "choices": [0, 7, 4, 5], "label": 2}
+{"text": "Un giradischi regolato male o peggio ancora rotto potrebbe danneggiare il disco . ", "target_word": "danneggiare", "choices": [2, 7, 5, 6], "label": 2}
+{"text": "Mostrati al meglio e cerca la compagnia della gente pi\u00f9 interessante . ", "target_word": "gente", "choices": [1, 7, 5, 6], "label": 2}
+{"text": "Se una ragazza copia i tuoi atteggiamenti potrebbe imitarti in modo inconscio . ", "target_word": "ragazza", "choices": [4, 3, 5, 6], "label": 3}
+{"text": "Per trovare una bella risposta ironica , dovrai replicare direttamente a ci\u00f2 che ti hanno detto . ", "target_word": "risposta", "choices": [6, 4, 5, 3], "label": 1}
+{"text": "La dieta vegetariana produce risultati molto positivi durante la gravidanza . ", "target_word": "risultato", "choices": [5, 2, 1, 4], "label": 3}
+{"text": "Continua a mescolare i colori finch\u00e9 la pittura non sar\u00e0 distribuita uniformemente . ", "target_word": "colore", "choices": [7, 6, 5, 2], "label": 1}
+{"text": "Evita di cucinare tanto o di fare altri lavori di casa . ", "target_word": "casa", "choices": [3, 5, 4, 6], "label": 1}
+{"text": "Ricorda che venire recensito da qualcuno ti dar\u00e0 prestigio . ", "target_word": "prestigio", "choices": [2, 6, 3, 4], "label": 0}
+{"text": "Impara a superare i momenti di crisi e ad apprezzarti per quello che sei . ", "target_word": "momento", "choices": [3, 2, 1, 6], "label": 0}
+{"text": "Studia ogni stile di lotta e non disprezzare gli altri stili , perch\u00e9 ci\u00f2 ti indebolirebbe . ", "target_word": "disprezzare", "choices": [3, 4, 2, 5], "label": 0}
+{"text": "colpisci il tamburo piegando il polso per muovere la bacchetta su e gi\u00f9 . ", "target_word": "colpire", "choices": [3, 4, 7, 6], "label": 3}
+{"text": "Non necessariamente la qualit\u00e0 si rifletter\u00e0 nel prezzo , anche se \u00e8 un indicatore abbastanza buono . ", "target_word": "qualit\u00e0", "choices": [1, 3, 5, 4], "label": 1}
+{"text": "Costruire una base per l' amore fisico richiede tempo . ", "target_word": "amore", "choices": [4, 7, 5, 3], "label": 3}
+{"text": "Chiudi gli occhi e concentrati sul respiro che entra ed esce dal tuo corpo . ", "target_word": "concentrare", "choices": [3, 4, 2, 1], "label": 1}
+{"text": "Spettegolando fai il suo stesso gioco e non rafforzi la tua autostima . ", "target_word": "gioco", "choices": [2, 5, 1, 6], "label": 0}
+{"text": "Ad alcune ragazze timide piacciono le persone divertenti . ", "target_word": "ragazza", "choices": [3, 7, 6, 5], "label": 2}
+{"text": "Non \u00e8 facile trovare ragazzi che siano davvero capaci di essere divertenti . ", "target_word": "ragazzo", "choices": [6, 4, 5, 7], "label": 0}
+{"text": "Vernicia la superficie della porta e sembrer\u00e0 nuova di zecca ! ", "target_word": "porta", "choices": [3, 5, 6, 7], "label": 3}
+{"text": "Se desideri imparare come flirtare con una ragazza sin da subito , segui questi semplici passi . ", "target_word": "flirtare", "choices": [3, 5, 4, 1], "label": 2}
+{"text": "Potrai decorare la stanza anche con giochi per bambini , quali paperotte di gomma o altri animali . ", "target_word": "decorare", "choices": [5, 7, 6, 4], "label": 2}
+{"text": "Valuta se il dolore toracico pu\u00f2 essere dovuto a un attacco di cuore . ", "target_word": "dolore", "choices": [6, 4, 5, 7], "label": 0}
+{"text": "Poich\u00e9 sulla Terra siamo soggetti alla gravit\u00e0 , la vita quotidiana non \u00e8 utile a simulare quella nello spazio . ", "target_word": "spazio", "choices": [7, 4, 2, 5], "label": 3}
+{"text": "Una volta raggiunto un accordo sul prezzo , il compratore versa un piccolo deposito . ", "target_word": "accordo", "choices": [3, 6, 4, 2], "label": 2}
+{"text": "Non appena hai un' idea ( e le persone che fioriscono tardi ne hanno tante ) , scrivila . ", "target_word": "fiorire", "choices": [2, 3, 1, 4], "label": 0}
+{"text": "Se ogni mese puoi pagare una quota di capitale , alla fine avrai speso meno in interessi . ", "target_word": "mese", "choices": [4, 6, 1, 3], "label": 0}
+{"text": "Rispondere al telefono infastidir\u00e0 il professore perch\u00e9 gli far\u00e0 capire che non hai rispetto per le regole . ", "target_word": "infastidire", "choices": [3, 6, 5, 4], "label": 3}
+{"text": "Fai una lista delle tue priorit\u00e0 per assicurarti di raggiungere le mete che ti sei proposto . ", "target_word": "assicurare", "choices": [2, 5, 0, 3], "label": 3}
+{"text": "immagina degli scenari divertenti o felici . ", "target_word": "immaginare", "choices": [4, 3, 7, 2], "label": 1}
+{"text": "Come si suol dire , non giudicare un libro dalla copertina . ", "target_word": "libro", "choices": [0, 4, 3, 5], "label": 3}
+{"text": "Diciamo la verit\u00e0 , ognuno di noi ha delle cattive abitudini . ", "target_word": "verit\u00e0", "choices": [2, 3, 1, 5], "label": 0}
+{"text": "Concediti il tempo per dedicarti alle attivit\u00e0 che ti piacciono . ", "target_word": "tempo", "choices": [4, 2, 5, 3], "label": 0}
+{"text": "Puoi pitturare l\u2019 argilla cotta con dei colori acrilici . ", "target_word": "pitturare", "choices": [6, 4, 2, 5], "label": 0}
+{"text": "Asciuga i capelli con l' aria fredda . ", "target_word": "aria", "choices": [7, 2, 6, 3], "label": 2}
+{"text": "Non dare troppa acqua : le radici superficiali amano l' acqua ma non devono affogare . ", "target_word": "affogare", "choices": [5, 3, 2, 7], "label": 0}
+{"text": "Lo stretching costante ti permetter\u00e0 di calciare pi\u00f9 in alto e pi\u00f9 velocemente . ", "target_word": "calciare", "choices": [4, 3, 5, 6], "label": 3}
+{"text": "Le indagini di mercato sono fondamentali per fare una ricerca di marketing. ", "target_word": "mercato", "choices": [1, 3, 4, 0], "label": 1}
+{"text": "a causa del suo muso corto , il bulldog inglese tende a soffrire di problemi respiratori . ", "target_word": "problema", "choices": [7, 6, 5, 2], "label": 2}
+{"text": "Poich\u00e9 alcuni test sono influenzati dal momento in cui viene raccolto il campione , questo deve essere riportato in ogni relazione . ", "target_word": "campione", "choices": [6, 3, 5, 1], "label": 2}
+{"text": "Potrebbe non essere simpatico soffocare il tuo orgoglio . ", "target_word": "soffocare", "choices": [3, 1, 0, 2], "label": 3}
+{"text": "Forse tendi a immaginare il peggior scenario possibile quando analizzi alcuni decisioni e incarichi . ", "target_word": "immaginare", "choices": [4, 3, 1, 0], "label": 1}
+{"text": "Prima di agire , devi capire il motivo per cui intendi avere una discussione . ", "target_word": "motivo", "choices": [3, 4, 2, 1], "label": 0}
+{"text": "Concedi spazio al tuo fidanzato . ", "target_word": "spazio", "choices": [2, 5, 3, 4], "label": 2}
+{"text": "Annuncia la vittoria al concorrente che ha ottenuto il punteggio pi\u00f9 alto . ", "target_word": "vittoria", "choices": [3, 4, 5, 6], "label": 1}
+{"text": "Il soffocamento provoca la morte o danni cerebrali permanenti nel giro di pochi minuti . ", "target_word": "morte", "choices": [7, 3, 6, 5], "label": 2}
+{"text": "Il radiatore dell' automobile svolge un ruolo importante di regolazione della temperatura del motore . ", "target_word": "automobile", "choices": [4, 6, 5, 3], "label": 1}
+{"text": "Puoi anche salvare pagine al tuo \" Elenco lettura \" o sulla schermata principale del tuo iPad . ", "target_word": "salvare", "choices": [6, 5, 3, 4], "label": 1}
+{"text": "Anche noleggiare qualche film , preparare i popcorn e trascorrere una serata tranquilla pu\u00f2 essere carino . ", "target_word": "film", "choices": [6, 7, 4, 5], "label": 0}
+{"text": "Fare il bullo distrugge la propria reputazione . ", "target_word": "distruggere", "choices": [0, 5, 2, 1], "label": 2}
+{"text": "Ci sono molti oggetti nel tuo ufficio che puoi riciclare . ", "target_word": "ufficio", "choices": [6, 3, 7, 5], "label": 0}
+{"text": "assicurati che le persone sappiano che stai facendo un buon lavoro . ", "target_word": "assicurare", "choices": [4, 2, 1, 0], "label": 1}
+{"text": "i migliori samurai lasciano la spada ad arrugginire nel fodero . ", "target_word": "arrugginire", "choices": [3, 4, 6, 5], "label": 3}
+{"text": "Circa i 2/3 degli uomini che tradiscono rivela di sentirsi in colpa dopo aver avuto un' avventura extraconiugale .", "target_word": "avventura", "choices": [6, 5, 7, 4], "label": 3}
+{"text": "Le capesante appartengono alla famiglia delle ostriche e sono molto popolari in diverse culture . ", "target_word": "famiglia", "choices": [3, 4, 1, 5], "label": 0}
+{"text": "l\u2019 autunno \u00e8 il periodo migliore per controllare l\u2019 albero , quando le foglie cambiano i colori . ", "target_word": "colore", "choices": [5, 7, 4, 6], "label": 3}
+{"text": "Molti dei libri disponibili sul mercato hanno prezzi abbordabili . ", "target_word": "mercato", "choices": [3, 2, 7, 4], "label": 3}
+{"text": "Dopo aver impostato i campi , clicca su Crea filtro . ", "target_word": "campo", "choices": [3, 4, 2, 6], "label": 1}
+{"text": "Valuta quanto tempo sei in grado di dedicare all' attivit\u00e0 di volontariato . ", "target_word": "tempo", "choices": [4, 6, 3, 5], "label": 0}
+{"text": "Un po\u2019 di cioccolato migliorer\u00e0 il tuo umore e ti render\u00e0 pi\u00f9 felice . ", "target_word": "migliorare", "choices": [5, 4, 6, 3], "label": 1}
+{"text": "Cerca di capire la fisica che si nasconde dietro alla terza legge di Newton . ", "target_word": "nascondere", "choices": [6, 4, 3, 2], "label": 2}
+{"text": "Vai alla centralina e attiva la corrente elettrica . ", "target_word": "attivare", "choices": [6, 2, 5, 4], "label": 2}
+{"text": "Due cause comuni di morte infantile sono la malnutrizione e l\u2019 avvelenamento . ", "target_word": "causa", "choices": [6, 5, 2, 4], "label": 3}
+{"text": "Le insalate si conservano meglio se condite all' ultimo momento e non prima di metterle in frigo . ", "target_word": "momento", "choices": [2, 3, 5, 1], "label": 1}
+{"text": "Non aver paura di cambiare idea . ", "target_word": "idea", "choices": [4, 1, 2, 0], "label": 2}
+{"text": "Che tipo di persona andrebbe alla ricerca di ogni piccolo difetto altrui solo per provocare dolore ? ", "target_word": "dolore", "choices": [2, 5, 3, 6], "label": 2}
+{"text": "l' amore potrebbe essere cieco , ma non \u00e8 corrotto o stupido . ", "target_word": "amore", "choices": [2, 4, 3, 6], "label": 0}
+{"text": "Investire denaro , specialmente nel mercato azionario , implica dei rischi . ", "target_word": "mercato", "choices": [6, 5, 2, 3], "label": 3}
+{"text": "Evita di sfogarti se sei infastidita o turbata , e affronta la situazione con calma e razionalit\u00e0 . ", "target_word": "infastidire", "choices": [3, 1, 4, 6], "label": 2}
+{"text": "La storia clinica della tua famiglia potrebbe essere la causa del problema . ", "target_word": "storia", "choices": [6, 7, 4, 2], "label": 2}
+{"text": "Devi anche avere una tua vita indipendente dalla tua relazione . ", "target_word": "vita", "choices": [3, 2, 4, 0], "label": 0}
+{"text": "l\u2019 eczema \u00e8 una malattia della pelle che pu\u00f2 provocare arrossamento , abrasioni e lesioni cutanee . ", "target_word": "malattia", "choices": [5, 4, 3, 6], "label": 3}
+{"text": "Alcuni marchi di profumi possono fare campioni omaggio quando un nuovo profumo viene lanciato sul mercato . ", "target_word": "campione", "choices": [7, 4, 5, 6], "label": 3}
+{"text": "i tuoi amici potrebbero deluderti non apprezzando l' idea , ma sii comprensivo e lavora insieme a loro . ", "target_word": "deludere", "choices": [1, 4, 3, 5], "label": 2}
+{"text": "Trova un parcheggio vuoto o una strada secondaria tranquilla . ", "target_word": "strada", "choices": [2, 5, 6, 7], "label": 2}
+{"text": "Alcuni siti ti offrono la possibilit\u00e0 di pubblicare un video allegato al cv. ", "target_word": "possibilit\u00e0", "choices": [4, 3, 1, 2], "label": 1}
+{"text": "Riduci le possibilit\u00e0 di dormire in posizioni che aggravano il mal di schiena . ", "target_word": "dormire", "choices": [5, 7, 4, 6], "label": 3}
+{"text": "Se sai di avere un vantaggio sul tuo avversario , assicurati di sfruttarlo con saggezza . ", "target_word": "vantaggio", "choices": [3, 0, 4, 2], "label": 0}
+{"text": "Non offendere l' intelligenza di una donna comportandoti in maniera sarcastica . ", "target_word": "offendere", "choices": [2, 3, 4, 1], "label": 1}
+{"text": "Affronta le conseguenze di aver scoperto la verit\u00e0 , qualunque essa sia . ", "target_word": "verit\u00e0", "choices": [4, 6, 1, 3], "label": 3}
+{"text": "Una lettera di interesse deve dimostrare il tuo interesse per un determinato argomento o tema . ", "target_word": "lettera", "choices": [6, 3, 5, 7], "label": 0}
+{"text": "Divertire i tuoi lettori con perspicacia aiuter\u00e0 il tuo scritto ad ottenere risonanza . ", "target_word": "perspicacia", "choices": [6, 3, 4, 5], "label": 1}
+{"text": "Gli adolescenti interagiscono , giocano e apprendono informazioni grazie alla rete . ", "target_word": "apprendere", "choices": [6, 5, 3, 4], "label": 3}
+{"text": "Una presentazione davanti alla commissione \u00e8 solitamente richiesta e il pubblico spesso \u00e8 consentito . ", "target_word": "commissione", "choices": [6, 4, 5, 7], "label": 0}
+{"text": "Fare spesso sogni ricorrenti e inquietanti potrebbe essere il segnale di un malessere psicologico . ", "target_word": "sogno", "choices": [2, 3, 5, 4], "label": 1}
+{"text": "Quando vogliamo essere incoraggiati e accettati , rincorriamo il sogno di guadagnare soldi e prestigio . ", "target_word": "prestigio", "choices": [6, 1, 2, 4], "label": 2}
+{"text": "La caffeina pu\u00f2 disturbare il sonno , causando insonnia , o aggravare preesistenti problemi di sonno . ", "target_word": "disturbare", "choices": [4, 5, 6, 1], "label": 0}
+{"text": "Nessun genere musicale dovrebbe essere ignorato , nemmeno il country . ", "target_word": "genere", "choices": [6, 3, 4, 1], "label": 1}
+{"text": "Lavora con i piccoli negozianti , gli uffici della zona e le chiese . ", "target_word": "ufficio", "choices": [5, 3, 4, 6], "label": 3}
+{"text": "i vaccini agiscono stimolando la risposta del sistema immunitario a degli specifici microrganismi . ", "target_word": "risposta", "choices": [3, 1, 4, 5], "label": 2}
+{"text": "Sperimenta il ballo liscio in coppia oppure azzarda una danza irlandese . ", "target_word": "coppia", "choices": [2, 5, 4, 6], "label": 3}
+{"text": "Se ti sembra di trovarti in un luogo deserto , urla con tutta la forza , nella speranza che arrivi qualcuno . ", "target_word": "speranza", "choices": [4, 3, 2, 1], "label": 2}
+{"text": "Festeggia le piccole vittorie . ", "target_word": "vittoria", "choices": [4, 2, 6, 3], "label": 3}
+{"text": "Segui questi passaggi per iniziare il viaggio lungo il tuo cammino artistico . ", "target_word": "viaggio", "choices": [5, 3, 2, 4], "label": 2}
+{"text": "Fissa il cavo di messa a terra . ", "target_word": "terra", "choices": [7, 6, 5, 3], "label": 2}
+{"text": "Esprimere i tuoi pensieri ad alta voce ti permetter\u00e0 di vederli da un' altra prospettiva . ", "target_word": "pensiero", "choices": [5, 4, 0, 3], "label": 3}
+{"text": "Un trattamento molto efficace \u00e8 quello di lavare i capelli con l' olio d' oliva . ", "target_word": "lavare", "choices": [6, 3, 7, 5], "label": 2}
+{"text": "Assumere la colpa subito e aiutare con la risoluzione del problema render\u00e0 la pena o punizione meno dura . ", "target_word": "pena", "choices": [5, 6, 4, 2], "label": 2}
+{"text": "i livelli di Photoshop permettono di modificare le tue foto senza manomettere la versione originale . ", "target_word": "manomettere", "choices": [4, 1, 6, 5], "label": 3}
+{"text": "Se ti ama davvero , non riesce assolutamente a immaginare un futuro senza di te. ", "target_word": "immaginare", "choices": [3, 4, 5, 2], "label": 3}
+{"text": "Se stai lavorando su commissione potresti avere la tentazione di vendere sempre a un prezzo superiore . ", "target_word": "commissione", "choices": [0, 1, 3, 4], "label": 2}
+{"text": "Il poligrafo \u00e8 visto come fonte d' ansia , persino da innocenti che dovrebbero superarlo senza imbrogliare o manomettere i risultati . ", "target_word": "manomettere", "choices": [6, 4, 3, 5], "label": 1}
+{"text": "Usa un coltello per rimuovere la parte centrale e mangia il cuore del carciofo . ", "target_word": "cuore", "choices": [5, 6, 7, 3], "label": 1}
+{"text": "Qualunque accessorio pu\u00f2 essere carino anche se l' uniforme impone solo i colori nero e bianco . ", "target_word": "nero", "choices": [7, 5, 6, 3], "label": 2}
+{"text": "Per promuovere la guarigione aspetta che il tempo faccia guarire le ferite . ", "target_word": "guarire", "choices": [6, 1, 4, 3], "label": 3}
+{"text": "Alcune pagine web possono danneggiare il tuo computer . ", "target_word": "danneggiare", "choices": [2, 3, 4, 5], "label": 2}
+{"text": "Se costruisci un buon giro di colleghi , sar\u00e0 di tutto vantaggio per la tua carriera . ", "target_word": "vantaggio", "choices": [4, 3, 1, 2], "label": 3}
+{"text": "l' influenza \u00e8 un' infezione virale che colpisce il sistema respiratorio . ", "target_word": "colpire", "choices": [4, 5, 6, 2], "label": 0}
+{"text": "Prova a indossare abiti carini - eleganti ma semplici - quando ti rechi a fare commissioni . ", "target_word": "commissione", "choices": [5, 3, 2, 6], "label": 0}
+{"text": "Se vedi un ragazzo che ti sta venendo incontro , non cambiare atteggiamento . ", "target_word": "ragazzo", "choices": [5, 7, 6, 4], "label": 2}
+{"text": "Lo sai che molte coppie sposate si sono conosciute sul posto di lavoro ? ", "target_word": "coppia", "choices": [4, 3, 6, 5], "label": 2}
+{"text": "Metti varie tipologie di giochi nella gabbia , cos\u00ec il tuo amico ha qualcosa con cui distrarsi . ", "target_word": "gioco", "choices": [4, 2, 6, 5], "label": 2}
+{"text": "Il modo pi\u00f9 efficace per fare il pieno di vitamina d \u00e8 esporsi al sole . ", "target_word": "modo", "choices": [2, 3, 6, 1], "label": 1}
+{"text": "Luned\u00ec senza carne \u00e8 una campagna che incoraggia le persone a rinunciare alla carne un giorno a settimana . ", "target_word": "incoraggiare", "choices": [0, 3, 6, 2], "label": 1}
+{"text": "Le donne si accorgono se sei un orrendo verme che si nasconde dietro l\u2019 apparenza di un gentiluomo . ", "target_word": "nascondere", "choices": [3, 0, 1, 2], "label": 0}
+{"text": "Sii consapevole di tutte le numerose possibilit\u00e0 di riciclo del vetro . ", "target_word": "possibilit\u00e0", "choices": [4, 7, 3, 6], "label": 0}
+{"text": "Modifica la postura in cui dormi , se ti svegli nel cuore della notte . ", "target_word": "cuore", "choices": [1, 2, 0, 3], "label": 1}
+{"text": "l' apicoltore non solo sar\u00e0 felice di rimuovere le api , ma potrebbe anche salvare una specie in pericolo . ", "target_word": "salvare", "choices": [3, 5, 2, 4], "label": 3}
+{"text": "Foglie o altri detriti organici , se lasciati decomporre , possono macchiare il fondo della piscina . ", "target_word": "decomporre", "choices": [7, 4, 6, 3], "label": 2}
+{"text": "Un modo per incoraggiare il dialogo consiste nell' aumentare l' intimit\u00e0 . ", "target_word": "incoraggiare", "choices": [2, 5, 4, 6], "label": 2}
+{"text": "Al fine di richiedere i danni , la parte lesa deve presentare una querela in sede penale , o civile o entrambe . ", "target_word": "parte", "choices": [6, 2, 7, 5], "label": 3}
+{"text": "Usa un buon fertilizzante per nutrire bene la pianta . ", "target_word": "nutrire", "choices": [5, 6, 2, 4], "label": 0}
+{"text": "La maggior parte delle volte , gli sfoghi sono dovuti a un aumento dell' afflusso di sangue alla superficie della pelle . ", "target_word": "parte", "choices": [5, 2, 7, 1], "label": 1}
+{"text": "Pu\u00f2 capitare che qualcuno cerchi di umiliarti . ", "target_word": "umiliare", "choices": [2, 1, 5, 3], "label": 3}
+{"text": "La depressione \u00e8 una malattia , non qualcosa di cui vergognarti perch\u00e9 non pensi di avere motivo per essere triste . ", "target_word": "malattia", "choices": [6, 5, 3, 4], "label": 1}
+{"text": "In base all' uso che devi fare della soluzione , puoi immergervi la parte lesa , pulirla o fare dei gargarismi . ", "target_word": "parte", "choices": [4, 7, 6, 5], "label": 2}
+{"text": "Puoi provare ad apprendere le tecniche di potatura per cercare di rivitalizzare la tua pianta . ", "target_word": "apprendere", "choices": [6, 1, 4, 3], "label": 2}
+{"text": "Non cercare di recitare la parte della persona che lui vorrebbe . ", "target_word": "parte", "choices": [4, 5, 3, 2], "label": 3}
+{"text": "Il tuo personaggio nutre sentimenti d\u2019 odio o rancore nei confronti di uno degli altri personaggi ? ", "target_word": "nutrire", "choices": [3, 2, 1, 4], "label": 1}
+{"text": "Smetti di mangiarti le unghie . ", "target_word": "mangiare", "choices": [3, 7, 5, 6], "label": 1}
+{"text": "Magari nelle giornate lavorative ti risulta difficile cucinare , ma nei giorni liberi passi pi\u00f9 tempo in cucina . ", "target_word": "cucinare", "choices": [5, 3, 4, 1], "label": 0}
+{"text": "Puoi utilizzare la scorza del limone come decorazione , se vuoi aggiungere un tocco di colore a un piatto o a un cocktail . ", "target_word": "colore", "choices": [7, 5, 6, 3], "label": 1}
+{"text": "Solleva il carrello , una coppia di ruote alla volta , per fargli superare la soglia d' ingresso . ", "target_word": "coppia", "choices": [3, 5, 6, 7], "label": 2}
+{"text": "Rabbia , panico , paura e frustrazione sono tutte emozioni che sicuramente ti faranno crollare e andare su tutte le furie . ", "target_word": "paura", "choices": [3, 2, 5, 4], "label": 0}
+{"text": "La croce di legno \u00e8 l' elemento strutturale principale della base del cesto . ", "target_word": "elemento", "choices": [2, 5, 6, 7], "label": 2}
+{"text": "Aiutare qualcuno che si trova in pericolo di vita \u00e8 certamente un gesto coraggioso . ", "target_word": "pericolo", "choices": [4, 5, 0, 3], "label": 0}
+{"text": "Impara a benedire , invece che a criticare . ", "target_word": "benedire", "choices": [3, 0, 2, 1], "label": 2}
+{"text": "Continua a nutrire l\u2019 animale con il mangime finch\u00e9 non sar\u00e0 il momento di liberarlo . ", "target_word": "nutrire", "choices": [4, 5, 3, 6], "label": 3}
+{"text": "Sostenere colloqui di lavoro ti apre altre porte e aumenta le possibilit\u00e0 di stabilire nuovi contatti . ", "target_word": "porta", "choices": [5, 1, 2, 4], "label": 2}
+{"text": "Pensa all' ultima volta in cui qualcuno ti ha irritato e ti ha fatto esplodere . ", "target_word": "irritare", "choices": [4, 6, 2, 3], "label": 3}
+{"text": "Alcuni generi alimentari sono difficili da digerire risultando , infine , danno si per il corpo invece che nutrienti . ", "target_word": "genere", "choices": [5, 2, 4, 3], "label": 0}
+{"text": "Il calore lenisce e riduce il dolore muscolare , migliorando la circolazione del sangue nella zona colpita . ", "target_word": "lenire", "choices": [5, 4, 6, 7], "label": 0}
+{"text": "Fai il primo passo con il piede che usi per calciare . ", "target_word": "calciare", "choices": [6, 3, 7, 5], "label": 0}
+{"text": "\u00e8 il momento di smettere di coccolare i figli quando diventano adulti . ", "target_word": "coccolare", "choices": [6, 5, 2, 4], "label": 1}
+{"text": "Pi\u00f9 tempo trascorri senza usare le tue capacit\u00e0 , pi\u00f9 il cervello si arrugginisce . ", "target_word": "arrugginire", "choices": [1, 6, 3, 0], "label": 2}
+{"text": "Chiedi a tutti i componenti della famiglia di impegnarsi nelle faccende domestiche . ", "target_word": "famiglia", "choices": [7, 6, 4, 3], "label": 1}
+{"text": "i luoghi ideali includono campi , prati , colline , e il tuo giardino . ", "target_word": "campo", "choices": [4, 5, 6, 3], "label": 2}
+{"text": "Non riesci a farla uscire dalla tua testa , pensi a lei in continuazione e ovunque vai . ", "target_word": "testa", "choices": [2, 4, 3, 1], "label": 2}
+{"text": "Esistono diversi motivi che potrebbero spingerti a migliorarti . ", "target_word": "motivo", "choices": [3, 4, 2, 5], "label": 0}
+{"text": "Se sei preparato , potrai salvare la vita di un altro individuo . ", "target_word": "salvare", "choices": [5, 2, 6, 4], "label": 3}
+{"text": "Lascia che il tempo guarisca le tue ferite . ", "target_word": "guarire", "choices": [5, 1, 3, 6], "label": 2}
+{"text": "Determina la differenza , tra amore , infatuazione e passione . ", "target_word": "amore", "choices": [2, 0, 4, 5], "label": 0}
+{"text": "Impara a capire che le Clematidi che fioriscono tardi dovrebbero essere potate a fondo . ", "target_word": "fiorire", "choices": [6, 4, 3, 5], "label": 0}
+{"text": "Puoi anche infastidire il professore leggendo molto in anticipo un capitolo e intervenire al riguardo . ", "target_word": "infastidire", "choices": [3, 6, 5, 4], "label": 3}
+{"text": "Pensa ai problemi che devono affrontare gli adolescenti . ", "target_word": "problema", "choices": [3, 0, 6, 4], "label": 0}
+{"text": "Non \u00e8 necessario nessun gioco di prestigio , ma pura e semplice matematica . ", "target_word": "gioco", "choices": [5, 6, 3, 4], "label": 0}
+{"text": "l\u2019 aria consentir\u00e0 alla pelle di guarire in maniera pi\u00f9 rapida . ", "target_word": "guarire", "choices": [7, 4, 3, 5], "label": 3}
+{"text": "Scrivere e pubblicare un libro non \u00e8 un' impresa facile . ", "target_word": "libro", "choices": [6, 7, 5, 4], "label": 0}
+{"text": "Il distanziamento eviter\u00e0 che le piante si ostacolino la crescita a vicenda . ", "target_word": "ostacolare", "choices": [7, 2, 5, 6], "label": 2}
+{"text": "Abusi fisici o psicologici sono un motivo pi\u00f9 che valido per rompere immediatamente un rapporto . ", "target_word": "motivo", "choices": [1, 3, 0, 5], "label": 1}
+{"text": "Resta concentrato sui tuoi sogni e sugli obiettivi per la tua carriera . ", "target_word": "sogno", "choices": [1, 2, 4, 3], "label": 1}
+{"text": "Niente pi\u00f9 di una partita inneggia allo spirito di squadra . ", "target_word": "spirito", "choices": [1, 2, 5, 4], "label": 1}
+{"text": "Ridurre il grasso corporeo offre molti vantaggi e benefici per la salute . ", "target_word": "vantaggio", "choices": [4, 5, 3, 7], "label": 0}
+{"text": "Se hai la possibilit\u00e0 di controllare il termostato della stanza , impostalo su una temperatura gradevole . ", "target_word": "possibilit\u00e0", "choices": [5, 2, 4, 3], "label": 3}
+{"text": "i pensieri e le preoccupazioni possono davvero scoraggiarci quando sono assillanti . ", "target_word": "pensiero", "choices": [1, 6, 3, 4], "label": 2}
+{"text": "Ogni tanto cerca di coccolare il tuo corpo . ", "target_word": "coccolare", "choices": [6, 1, 4, 3], "label": 2}
+{"text": "l\u2019 eleganza \u00e8 un elemento che differenzia lo stile americano da quello europeo . ", "target_word": "elemento", "choices": [3, 0, 2, 5], "label": 0}
+{"text": "Organizza una festa in casa invece di andare per bar con gli amici . ", "target_word": "festa", "choices": [5, 4, 3, 2], "label": 0}
+{"text": "Non \u00e8 facile superare una crisi finanziaria o evitare di indebitarsi . ", "target_word": "crisi", "choices": [4, 5, 6, 7], "label": 0}
+{"text": "Nonostante il nome , il satanismo ha davvero poco a che fare con il demonio descritto nella Bibbia . ", "target_word": "demonio", "choices": [2, 4, 5, 3], "label": 3}
+{"text": "Eliminare i residui di cibo e sporcizia pu\u00f2 aiutare a ridurre le possibilit\u00e0 d' infezione . ", "target_word": "possibilit\u00e0", "choices": [3, 2, 0, 4], "label": 0}
+{"text": "i sogni erotici non sono nulla per cui sentirsi in colpa . ", "target_word": "sogno", "choices": [6, 1, 4, 3], "label": 3}
+{"text": "Regalati una vacanza o un weekend all' insegna dell' avventura . ", "target_word": "avventura", "choices": [7, 4, 1, 3], "label": 3}
+{"text": "Un riposo di qualit\u00e0 pu\u00f2 giovare alla memoria e alla creativit\u00e0 e aumentare l' aspettativa di vita . ", "target_word": "vita", "choices": [5, 1, 4, 6], "label": 2}
+{"text": "Raggruppa a coppie le cifre del numero sotto il segno del radicale . ", "target_word": "coppia", "choices": [5, 4, 6, 7], "label": 1}
+{"text": "La dignit\u00e0 e l' umilt\u00e0 nella vittoria e nella sconfitta sono fondamentali . ", "target_word": "vittoria", "choices": [2, 3, 6, 4], "label": 1}
+{"text": "Se puoi permettertelo , compra degli spazi pubblicitari in radio o in tv per promuovere la tua attivit\u00e0 . ", "target_word": "spazio", "choices": [5, 4, 6, 3], "label": 1}
+{"text": "Evita che la tua attrezzatura galleggi liberamente andando a infastidire gli altri surfisti . ", "target_word": "infastidire", "choices": [7, 4, 3, 5], "label": 1}
+{"text": "Individua la causa che provoca i crampi alla coscia . ", "target_word": "causa", "choices": [4, 5, 2, 3], "label": 0}
+{"text": "a fine cottura inforna la carne ed accendi il grill per rendere la pelle dorata e ben croccante . ", "target_word": "infornare", "choices": [5, 2, 7, 6], "label": 3}
+{"text": "La maggior parte delle azalee fiorir\u00e0 la primavera successiva . ", "target_word": "fiorire", "choices": [6, 5, 2, 4], "label": 0}
+{"text": "Non annoiarla a morte chiedendole qual \u00e8 l' argomento pi\u00f9 interessante del corso di algebra . ", "target_word": "morte", "choices": [2, 6, 3, 1], "label": 0}
+{"text": "i ragazzi sono sempre piacevolmente colpiti dalle ragazze col senso dell' umorismo . ", "target_word": "colpire", "choices": [6, 3, 4, 1], "label": 1}
+{"text": "Ricorda che puoi decorare il calendario come preferisci , perci\u00f2 usa la tua immaginazione ! ", "target_word": "decorare", "choices": [4, 3, 5, 6], "label": 2}
+{"text": "Guidare un' automobile con cambio automatico \u00e8 pi\u00f9 semplice rispetto a guidarne una con cambio manuale . ", "target_word": "automobile", "choices": [7, 5, 4, 6], "label": 0}
+{"text": "Lo stress pu\u00f2 essere la causa dei problemi di acidit\u00e0 di stomaco . ", "target_word": "causa", "choices": [6, 3, 5, 4], "label": 3}
+{"text": "Se l\u2019 oculista ha stabilito che si tratta di un' infezione di natura virale , devi essere paziente . ", "target_word": "natura", "choices": [0, 3, 5, 2], "label": 1}
+{"text": "Sostieni una conversazione con la tua ragazza riguardo alla vostra relazione . ", "target_word": "ragazza", "choices": [5, 2, 6, 4], "label": 2}
+{"text": "Le persone utilizzano gli occhi per comunicare molte emozioni . ", "target_word": "occhio", "choices": [6, 7, 5, 4], "label": 0}
+{"text": "Un vero uomo sa che in campo amoroso \u00e8 la donna a scandire il ritmo . ", "target_word": "uomo", "choices": [3, 5, 2, 4], "label": 3}
+{"text": "Recluta qualche amico robusto per farti aiutare . ", "target_word": "amico", "choices": [4, 6, 5, 7], "label": 1}
+{"text": "Stendi una prima mano di pittura . ", "target_word": "mano", "choices": [6, 5, 4, 3], "label": 1}
+{"text": "Una versione per Linux \u00e8 in fase di sviluppo . ", "target_word": "fase", "choices": [1, 6, 3, 4], "label": 2}
+{"text": "Usare gli occhi \u00e8 un ottimo modo di attirare l\u2019 attenzione di un ragazzo . ", "target_word": "ragazzo", "choices": [6, 5, 4, 7], "label": 0}
+{"text": "Una societ\u00e0 giusta non deve applicare la pena di morte come forma di punizione . ", "target_word": "pena", "choices": [5, 6, 2, 4], "label": 0}
+{"text": "Dipingi la ghirlanda di nero . ", "target_word": "nero", "choices": [6, 7, 5, 3], "label": 0}
+{"text": "Comprare le penny stock spesso significa investire in aziende piccole ed emergenti . ", "target_word": "investire", "choices": [6, 3, 4, 2], "label": 2}
+{"text": "Puoi puntare sulla vittoria del banco o del giocatore . ", "target_word": "vittoria", "choices": [5, 4, 1, 7], "label": 1}
+{"text": "Abbracciare , coccolare o baciare una persona cara allevier\u00e0 l\u2019 ansia e ti far\u00e0 sentire amato . ", "target_word": "coccolare", "choices": [5, 4, 3, 6], "label": 3}
+{"text": "Assicurati di essere pronto ad iniziare una relazione e non correre in braccio a qualcuno per lenire il tuo malessere del momento . ", "target_word": "lenire", "choices": [2, 4, 6, 3], "label": 3}
+{"text": "Le corde consumate o arrugginite si scordano pi\u00f9 facilmente e rovinano le tue dita . ", "target_word": "arrugginire", "choices": [7, 4, 6, 5], "label": 2}
+{"text": "i bambini piccoli preferiscono storie con trame e parole semplici . ", "target_word": "storia", "choices": [3, 6, 5, 4], "label": 2}
+{"text": "Allo stesso tempo , un pettegolezzo pu\u00f2 danneggiare una persona , distruggerne la reputazione . ", "target_word": "distruggere", "choices": [6, 5, 3, 2], "label": 2}
+{"text": "Qualsiasi bravo ozioso passa la maggior parte del tempo a sognare ad occhi aperti . ", "target_word": "occhio", "choices": [3, 2, 4, 6], "label": 2}
+{"text": "i ragazzi nutrono interesse per le ragazze che sembrano divertenti e un po\u2019 matte . ", "target_word": "nutrire", "choices": [2, 5, 3, 1], "label": 0}
+{"text": "Spesso i pensieri che affollano la mente durante la notte sembrano particolarmente opprimenti e inquietanti . ", "target_word": "pensiero", "choices": [5, 6, 3, 1], "label": 2}
+{"text": "Avere un buon supporto da famiglia e amici \u00e8 fondamentale . ", "target_word": "famiglia", "choices": [5, 3, 4, 6], "label": 3}
+{"text": "Anche se non dai la risposta corretta , dimostrerai che ti sei impegnato . ", "target_word": "risposta", "choices": [3, 7, 4, 5], "label": 3}
+{"text": "Non deludere le aspettative delle persone care . ", "target_word": "deludere", "choices": [1, 3, 4, 5], "label": 1}
+{"text": "Per diventare una madre surrogata servono grandi doti di generosit\u00e0 . ", "target_word": "madre", "choices": [4, 6, 5, 7], "label": 1}
+{"text": "Dovresti concimare le tue piante meno frequentemente durante i mesi autunnali e invernali . ", "target_word": "mese", "choices": [7, 5, 2, 4], "label": 3}
+{"text": "Hai mai imprecato , calciato qualcosa e urlato frasi oscene , spaventando chi ti era vicino ? ", "target_word": "calciare", "choices": [3, 6, 4, 5], "label": 1}
+{"text": "Molti adulti hanno ammesso di avere paura del buio . ", "target_word": "paura", "choices": [4, 0, 3, 2], "label": 2}
+{"text": "Le madri coccodrillo difendono i propri cuccioli senza paura . ", "target_word": "madre", "choices": [5, 4, 3, 6], "label": 3}
+{"text": "Il bianco brillante riflette la luce invece di assorbirla . ", "target_word": "luce", "choices": [4, 5, 2, 6], "label": 1}
+{"text": "Lascia dello spazio in valigia per lo shopping . ", "target_word": "spazio", "choices": [6, 2, 4, 5], "label": 0}
+{"text": "Utilizza delle attivit\u00e0 concrete pensate per ogni unit\u00e0 didattica . ", "target_word": "unit\u00e0", "choices": [4, 1, 3, 6], "label": 0}
+{"text": "Sciacqua un limone maturo con acqua fredda e tamponalo con un tovagliolo . ", "target_word": "acqua", "choices": [6, 5, 2, 4], "label": 0}
+{"text": "Le fiere e altri festival di solito offrono campioni gratuiti per far avvicinare i passanti . ", "target_word": "campione", "choices": [7, 3, 6, 4], "label": 2}
+{"text": "Quasi tutti gli scrittori cadono vittime del cosiddetto blocco dello scrittore . ", "target_word": "vittima", "choices": [3, 4, 2, 5], "label": 0}
+{"text": "Considera se , nonostante tutto , vale la pena salvare il vostro rapporto . ", "target_word": "salvare", "choices": [3, 2, 4, 1], "label": 0}
+{"text": "i tuoi genitori dormiranno sonni tranquilli sapendo che nessuno potr\u00e0 ricorrere alle vie legali . ", "target_word": "dormire", "choices": [5, 4, 3, 2], "label": 1}
+{"text": "La qualit\u00e0 della carne \u00e8 fondamentale in quanto determiner\u00e0 il risultato finale della tua zuppa . ", "target_word": "risultato", "choices": [6, 3, 5, 4], "label": 2}
+{"text": "l' uomo \u00e8 un animale sociale e , in virt\u00f9 di questa caratteristica , \u00e8 incline a parlare con chi non conosce . ", "target_word": "uomo", "choices": [4, 6, 3, 5], "label": 3}
+{"text": "Ora che il cane ha appreso come abbaiare a comando , il prossimo passo sar\u00e0 farlo smettere . ", "target_word": "apprendere", "choices": [2, 1, 4, 3], "label": 3}
+{"text": "Comprendi chi pu\u00f2 salvarti dalla morte spirituale . ", "target_word": "morte", "choices": [3, 5, 2, 1], "label": 0}
+{"text": "Restringi il campo della tua ricerca includendo informazioni pi\u00f9 specifiche . ", "target_word": "campo", "choices": [1, 2, 3, 4], "label": 1}
+{"text": "Se ti fermi da qualche parte per la notte , informati sugli hotel che accettano animali . ", "target_word": "parte", "choices": [2, 4, 5, 3], "label": 2}
+{"text": "i cani pi\u00f9 piccoli rischiano di restare mutilati o uccisi dalle trappole per castori . ", "target_word": "mutilare", "choices": [2, 7, 6, 5], "label": 2}
+{"text": "Non calciare il pallone troppo in alto . ", "target_word": "calciare", "choices": [6, 3, 7, 2], "label": 0}
+{"text": "Il marciapiede ghiacciato rappresenta un pericolo per la propria sicurezza . ", "target_word": "pericolo", "choices": [5, 4, 2, 3], "label": 1}
+{"text": "Crea dei biglietti da visita , dillo ad amici e familiari e pubblicizza l\u2019 evento sulle bacheche locali . ", "target_word": "amico", "choices": [5, 6, 7, 3], "label": 1}
+{"text": "i barattoli di vetro consentono di conservare gli alimenti in modo igienico e sicuro . ", "target_word": "modo", "choices": [5, 4, 0, 3], "label": 3}
+{"text": "Se sei ospite a una festa permettiti un piccolo strappo alla dieta . ", "target_word": "festa", "choices": [5, 4, 6, 3], "label": 0}
+{"text": "Compra il maglione che la tua amica mangiava con gli occhi al centro commerciale . ", "target_word": "mangiare", "choices": [4, 6, 5, 2], "label": 3}
+{"text": "assicurati che i dispositivi acustici utilizzati siano correttamente collegati al computer e in funzione . ", "target_word": "assicurare", "choices": [5, 3, 7, 4], "label": 0}
+{"text": "Le persone saranno pi\u00f9 disposte a essere d' accordo con te se ti apprezzano . ", "target_word": "accordo", "choices": [2, 0, 4, 1], "label": 0}
+{"text": "i campi da calcio , da football e i parchi ( senza alberi ) sono ottime soluzioni . ", "target_word": "campo", "choices": [7, 5, 6, 4], "label": 0}
+{"text": "i giochi violenti fanno istantaneamente aumentare il tasso di adrenalina . ", "target_word": "gioco", "choices": [6, 4, 7, 5], "label": 3}
+{"text": "Una crisi di identit\u00e0 pu\u00f2 verificarsi a qualsiasi et\u00e0 . ", "target_word": "crisi", "choices": [2, 3, 1, 0], "label": 0}
+{"text": "Il tuo sogno di diventare un artista famoso potrebbe non essere cos\u00ec assurdo come sembra . ", "target_word": "sogno", "choices": [1, 5, 3, 4], "label": 2}
+{"text": "Se verrai mai coinvolto in un campo di battaglia , ringrazierai i tuoi istruttori . ", "target_word": "campo", "choices": [5, 6, 2, 7], "label": 0}
+{"text": "Se stai nuotando in acqua dolce , stabilisci la tua posizione . ", "target_word": "acqua", "choices": [3, 5, 6, 7], "label": 2}
+{"text": "Il tempo necessario a costruire la tua casa in legno dipende interamente dalla tipologia di casa che stai costruendo . ", "target_word": "casa", "choices": [3, 7, 6, 5], "label": 1}
+{"text": "Prova a scrivere la lettera m e traccia due linee verticali vicine e parallele . ", "target_word": "lettera", "choices": [4, 3, 5, 6], "label": 3}
+{"text": "Un altro modo per flirtare con una ragazza \u00e8 non prenderti troppo sul serio . ", "target_word": "flirtare", "choices": [5, 6, 4, 3], "label": 0}
+{"text": "Che tu stia organizzando una cena elegante o informale , apparecchiare pu\u00f2 metterti in crisi . ", "target_word": "crisi", "choices": [3, 1, 2, 5], "label": 0}
+{"text": "Gli accordi vengono prodotti suonando pi\u00f9 note per volta , creando cos\u00ec un' armonia . ", "target_word": "accordo", "choices": [6, 5, 4, 7], "label": 1}
+{"text": "Se ceni tardi e vai subito a dormire non riuscirai a prendere sonno . ", "target_word": "dormire", "choices": [0, 7, 5, 4], "label": 2}
+{"text": "Ricorda che stai provando a cambiare la natura della relazione , questo \u00e8 gi\u00e0 un grande passo . ", "target_word": "natura", "choices": [0, 3, 2, 5], "label": 2}
+{"text": "Spesso i passaggi necessari a rendere un oggetto disponibile richiedono mezzi che inquinano l\u2019 aria . ", "target_word": "inquinare", "choices": [7, 5, 6, 3], "label": 1}
+{"text": "Assicurati di poter aprire la porta velocemente senza colpire nessuno . ", "target_word": "porta", "choices": [2, 6, 7, 5], "label": 2}
+{"text": "Puoi liberarti delle formiche distruggendo il loro nido , o mettendo delle esche per gli esemplari esploratori . ", "target_word": "distruggere", "choices": [6, 5, 4, 2], "label": 0}
+{"text": "Decidi se vuoi investire in un essiccatore per tenere la cucina ben fornita per tutto un anno . ", "target_word": "investire", "choices": [4, 6, 2, 5], "label": 0}
+{"text": "La pizza al formaggio fatta in casa \u00e8 uno dei piaceri semplici della vita . ", "target_word": "pizza", "choices": [7, 3, 6, 4], "label": 0}
+{"text": "concentrandoti sugli aspetti positivi , riuscirai a essere pi\u00f9 estroverso e osare di pi\u00f9 nella vita . ", "target_word": "concentrare", "choices": [3, 2, 4, 1], "label": 0}
+{"text": "Cuoci la pizza in forno per 15 minuti .", "target_word": "pizza", "choices": [6, 7, 5, 3], "label": 1}
+{"text": "l' amore \u00e8 cieco , perci\u00f2 cerca di aprire volontariamente gli occhi . ", "target_word": "amore", "choices": [4, 2, 1, 3], "label": 1}
+{"text": "l' aspetto negativo delle agenzie \u00e8 il costo pi\u00f9 alto , poich\u00e9 bisogna pagare loro una commissione che viene compresa nel prezzo . ", "target_word": "commissione", "choices": [2, 7, 5, 4], "label": 2}
+{"text": "Ai concerti cerca di fare il simbolo del demonio con la mano per guadagnare punti . ", "target_word": "demonio", "choices": [2, 5, 3, 4], "label": 2}
+{"text": "Se non riesci a trovare un isopropile , va bene anche lo spirito metilato . ", "target_word": "spirito", "choices": [4, 6, 7, 5], "label": 1}
+{"text": "La direzione del sole avr\u00e0 un impatto sulla qualit\u00e0 delle foto . ", "target_word": "qualit\u00e0", "choices": [4, 1, 5, 3], "label": 0}
+{"text": "Alcuni meccanici si specializzano in particolari tipi di riparazione di automobili . ", "target_word": "automobile", "choices": [7, 6, 4, 2], "label": 1}
+{"text": "Lo scrub rimuove le cellule morte e migliora la circolazione di tutto il corpo . ", "target_word": "migliorare", "choices": [5, 7, 6, 4], "label": 3}
+{"text": "Se hai molti elementi in comune con una persona , sfrutta questi punti di incontro . ", "target_word": "elemento", "choices": [4, 5, 3, 2], "label": 2}
+{"text": "Potresti usare un' applicazione dello smartphone per giocare a un gioco da tavolo col tuo amico . ", "target_word": "gioco", "choices": [3, 4, 6, 5], "label": 3}
+{"text": "Mangiare tra un pasto e l' altro pu\u00f2 ostacolare il processo di dimagrimento . ", "target_word": "ostacolare", "choices": [5, 2, 3, 4], "label": 2}
+{"text": "Lasciati ispirare dall' alta moda . ", "target_word": "ispirare", "choices": [0, 2, 3, 5], "label": 2}
+{"text": "Poggia la palla medica per terra , davanti a te . ", "target_word": "terra", "choices": [6, 1, 7, 5], "label": 2}
+{"text": "Ma non stringere troppo la fasciatura , non ostacolare la circolazione sanguigna . ", "target_word": "ostacolare", "choices": [3, 5, 1, 6], "label": 1}
+{"text": "Il medico di solito preleva un campione di tessuto per farlo analizzare . ", "target_word": "campione", "choices": [4, 5, 3, 6], "label": 3}
+{"text": "Lei preferisce i doni fatti con il cuore , non qualcosa che compri solo per fare bella figura . ", "target_word": "cuore", "choices": [3, 1, 5, 6], "label": 0}
+{"text": "Sviluppando una buona routine serale , potrai migliorare la qualit\u00e0 e la durata del sonno . ", "target_word": "qualit\u00e0", "choices": [1, 2, 3, 4], "label": 2}
+{"text": "Fai un respiro profondo per raccogliere i tuoi pensieri e placare le tue emozioni . ", "target_word": "pensiero", "choices": [2, 0, 4, 3], "label": 0}
+{"text": "Ci sono molte ragioni per voler flirtare con il proprio capo . ", "target_word": "flirtare", "choices": [4, 3, 2, 7], "label": 0}
+{"text": "Bada alla qualit\u00e0 del tempo che trascorri con tuo figlio . ", "target_word": "qualit\u00e0", "choices": [3, 2, 6, 0], "label": 0}
+{"text": "Se il tuo forno \u00e8 grande abbastanza per due teglie , inforna entrambe le teglie di cupcake . ", "target_word": "infornare", "choices": [7, 1, 6, 3], "label": 2}
+{"text": "Per piantare le rose e farle fiorire nella loro maestosit\u00e0 attieniti ai consigli di un esperto . ", "target_word": "fiorire", "choices": [6, 7, 4, 5], "label": 0}
+{"text": "Il grande primo ministro inglese Winston Churchill era noto per la sua perspicacia . ", "target_word": "perspicacia", "choices": [3, 2, 1, 5], "label": 0}
+{"text": "Nel Medioevo i cavalieri erano simbolo di onore e galanteria . ", "target_word": "onore", "choices": [1, 2, 3, 4], "label": 1}
+{"text": "Mai parlare di politica , altrimenti rischi di offendere involontariamente gli altri . ", "target_word": "offendere", "choices": [7, 1, 4, 2], "label": 2}
+{"text": "Anche solo pochi minuti passati a coccolare il tuo animaletto adorato possono sicuramente tirarti su . ", "target_word": "coccolare", "choices": [3, 6, 4, 7], "label": 1}
+{"text": "Non \u00e8 possibile andare d' accordo con tutti . ", "target_word": "accordo", "choices": [4, 3, 5, 1], "label": 1}
+{"text": "Spazzola delicatamente la superficie senza muovere la pianta stessa o disturbare le sue radici . ", "target_word": "disturbare", "choices": [4, 3, 5, 2], "label": 0}
+{"text": "Evita di usare il sapone , perch\u00e9 irriter\u00e0 e seccher\u00e0 la cute . ", "target_word": "irritare", "choices": [4, 5, 6, 7], "label": 2}
+{"text": "Presta attenzione ai sintomi precoci del congelamento , per evitare di essere mutilati da questa dolorosa lesione . ", "target_word": "mutilare", "choices": [3, 4, 5, 6], "label": 3}
+{"text": "Il diabete pu\u00f2 colpire chiunque : giovani , anziani , maschi o femmine . ", "target_word": "colpire", "choices": [3, 4, 2, 6], "label": 1}
+{"text": "Ogni atomo di azoto presenta una coppia di elettroni e tre elettroni spaiati . ", "target_word": "coppia", "choices": [4, 5, 6, 3], "label": 0}
+{"text": "Quando i ragazzi assistono o vivono in un continuo stato di guerra con i genitori , possono nascere problemi comportamentali . ", "target_word": "guerra", "choices": [3, 4, 1, 5], "label": 0}
+{"text": "Quasi tutte le biblioteche offrono libri elettronici da noleggiare per un certo periodo di tempo . ", "target_word": "libro", "choices": [6, 1, 3, 7], "label": 0}
+{"text": "Piazza l' albero sul cumulo di terra . ", "target_word": "terra", "choices": [7, 6, 5, 4], "label": 0}
+{"text": "Alcune sostanze contengono elementi chimici difficili da rimuovere se non ricorri ad altri prodotti chimici . ", "target_word": "elemento", "choices": [6, 4, 7, 5], "label": 0}
+{"text": "Quando i tuoi genitori ti dicono di fare qualcosa , obbedisci senza controbattere . ", "target_word": "obbedire", "choices": [3, 2, 4, 5], "label": 2}
+{"text": "Incidere il cuoio \u00e8 un' arte artigianale che pu\u00f2 essere appresa da tutti . ", "target_word": "arte", "choices": [4, 6, 3, 1], "label": 0}
+{"text": "Ricorda che l' intelligenza e la cultura sono andate a farsi benedire . ", "target_word": "benedire", "choices": [3, 5, 4, 2], "label": 3}
+{"text": "Camminare anche solo per poco tempo pu\u00f2 attivare la mente e il corpo . ", "target_word": "attivare", "choices": [4, 6, 2, 7], "label": 0}
+{"text": "Usa l' aspirapolvere , spolvera e lava tutta la casa . ", "target_word": "lavare", "choices": [2, 5, 6, 4], "label": 2}
+{"text": "Per aumentare il grado di concentrazione , immagina uno scenario in cui devi avere una concentrazione assoluta . ", "target_word": "immaginare", "choices": [5, 4, 3, 2], "label": 3}
+{"text": "Prova questo metodo se vuoi che la natura segua il suo corso . ", "target_word": "natura", "choices": [2, 3, 6, 4], "label": 1}
+{"text": "Le misure di sicurezza , come gli estintori e le pareti ignifughe , hanno salvato migliaia di vite . ", "target_word": "salvare", "choices": [2, 4, 1, 5], "label": 3}
+{"text": "Scegli diversi tipi di verde per rendere il fogliame realistico e profondo . ", "target_word": "verde", "choices": [4, 2, 6, 5], "label": 3}
+{"text": "Se non hai bisogno di ulteriori fonti di luce per lavorare , spegnile . ", "target_word": "luce", "choices": [4, 6, 5, 1], "label": 1}
+{"text": "c' \u00e8 sempre una causa di fondo per l\u2019 ansia e il panico . ", "target_word": "causa", "choices": [1, 3, 6, 4], "label": 1}
+{"text": "Non \u00e8 detto che tu conosca i motivi che si nascondono dietro a un comportamento passivo aggressivo . ", "target_word": "nascondere", "choices": [3, 0, 1, 5], "label": 0}
+{"text": "Tieni un secchio capiente a portata di mano . ", "target_word": "mano", "choices": [5, 6, 2, 4], "label": 3}
+{"text": "l\u2019 importante \u00e8 che non siano troppo grandi , nessuno vuole affogare in litri di t\u00e8 . ", "target_word": "affogare", "choices": [3, 2, 4, 1], "label": 0}
+{"text": "Una volta cucinato l\u2019 arrosto , nella pentola rimane un fondo con tutti i sughi della carne . ", "target_word": "cucinare", "choices": [5, 6, 3, 1], "label": 1}
+{"text": "l' andamento del mercato azionario nel lungo periodo \u00e8 sempre in crescendo . ", "target_word": "mercato", "choices": [1, 6, 3, 5], "label": 2}
+{"text": "Oltre ad essere sgradevole all' olfatto e alla vista , la muffa pu\u00f2 danneggiare la nostra salute . ", "target_word": "vista", "choices": [1, 5, 2, 3], "label": 1}
+{"text": "Cambia la strada che percorri per recarti nei luoghi abituali . ", "target_word": "strada", "choices": [5, 6, 7, 4], "label": 1}
+{"text": "Suonando la chitarra , sarai spinto a coltivare maggiormente il tuo interesse per la musica . ", "target_word": "interesse", "choices": [3, 2, 0, 4], "label": 0}
+{"text": "Apri una porta a qualcuno in difficolt\u00e0 , fai volontariato , qualsiasi cosa ti riempia d\u2019 amore . ", "target_word": "porta", "choices": [4, 6, 3, 5], "label": 2}
+{"text": "Molte donne si sentono esauste nelle prime tappe della gravidanza . ", "target_word": "donna", "choices": [5, 4, 7, 6], "label": 3}
+{"text": "Igienizza le mani con acqua di rubinetto e sapone antibatterico . ", "target_word": "acqua", "choices": [6, 3, 7, 4], "label": 2}
+{"text": "La morte \u00e8 una perdita che tutti dobbiamo necessariamente affrontare nel corso della nostra vita . ", "target_word": "morte", "choices": [5, 4, 6, 2], "label": 0}
+{"text": "Prepara il discorso che farai alla persona con cui hai un\u2019 avventura ed esponi le cose in modo definitivo . ", "target_word": "avventura", "choices": [6, 5, 7, 4], "label": 3}
+{"text": "Se sfuggi alla battaglia , devi scordarti della vittoria e della gioia che viene con essa . ", "target_word": "vittoria", "choices": [1, 3, 2, 4], "label": 2}
+{"text": "Moltiplica l\u2019 area della base per la sua altezza e dividi il risultato per 3 .", "target_word": "risultato", "choices": [4, 3, 1, 2], "label": 0}
+{"text": "Dopo la rottura , forse sarai tentata di affogare il dispiacere in cibi poco salutari . ", "target_word": "affogare", "choices": [4, 1, 5, 3], "label": 3}
+{"text": "Per un viaggio sicuro in macchina , \u00e8 importante limitare i movimenti dell\u2019 animale . ", "target_word": "viaggio", "choices": [2, 5, 1, 4], "label": 1}
+{"text": "Dal momento che la storia d' avventura \u00e8 ormai conclusa , scrivine il titolo . ", "target_word": "avventura", "choices": [1, 4, 3, 7], "label": 2}
+{"text": "Talvolta arrossire potrebbe quindi salvarti da una spiacevole discussione . ", "target_word": "salvare", "choices": [3, 1, 5, 4], "label": 0}
+{"text": "La critica esprime giudizi su libri , film e altre opere creative . ", "target_word": "libro", "choices": [6, 7, 5, 4], "label": 0}
+{"text": "Quando si sta insieme da parecchio tempo il rapporto rischia di essere inquinato dalla monotonia . ", "target_word": "inquinare", "choices": [2, 3, 1, 4], "label": 0}
+{"text": "Prepara una soluzione di risciacquo per migliorare la pelle e il pelo del tuo amico fedele . ", "target_word": "migliorare", "choices": [6, 3, 2, 4], "label": 3}
+{"text": "Lavati le mani con acqua calda e sapone dopo aver toccato la lesione . ", "target_word": "mano", "choices": [3, 2, 6, 7], "label": 2}
+{"text": "Ogni persona pu\u00f2 avere gli occhi di diversi colori . ", "target_word": "colore", "choices": [7, 5, 4, 6], "label": 3}
+{"text": "Se possibile , cerca di pitturare la barca in una giornata con circa 15,5 \u2013 26,5 \u00b0c .", "target_word": "pitturare", "choices": [5, 3, 4, 6], "label": 3}
+{"text": "distruggi il nido di vespe la notte . ", "target_word": "distruggere", "choices": [5, 6, 7, 4], "label": 1}
+{"text": "Se moltiplichi il tasso di interesse per 100 ottieni la porzione di denaro che paghi a ogni rata come interesse sul capitale .", "target_word": "interesse", "choices": [5, 6, 4, 3], "label": 2}
+{"text": "Anche se non siete amici , puoi visualizzare tutto ci\u00f2 che una persona rende pubblico sul proprio profilo social . ", "target_word": "amico", "choices": [3, 4, 2, 6], "label": 1}
+{"text": "i personaggi possono rovinare la storia molto pi\u00f9 della trama . ", "target_word": "storia", "choices": [3, 5, 1, 2], "label": 0}
+{"text": "Ti telefoner\u00f2 dopo il mio viaggio in Spagna per raccontarti com\u2019 \u00e8 andata . ", "target_word": "viaggio", "choices": [5, 4, 7, 2], "label": 0}
+{"text": "Il cavallo pu\u00f2 soffocare anche quando ingerisce eventuali pezzi di oggetti che tende a rosicchiare . ", "target_word": "soffocare", "choices": [4, 6, 5, 2], "label": 1}
+{"text": "Inizia con il correttore ( per nascondere borse e occhiaie ) , seguito da fondotinta e cipria . ", "target_word": "nascondere", "choices": [2, 5, 4, 1], "label": 1}
+{"text": "Durante la fase iniziale dell' astinenza , probabilmente sperimenterai un forte desiderio di farti . ", "target_word": "fase", "choices": [3, 2, 4, 6], "label": 0}
+{"text": "l' eccesso di sicurezza \u00e8 un modo di disprezzare le doti e le abilit\u00e0 degli altri . ", "target_word": "disprezzare", "choices": [6, 5, 1, 3], "label": 3}
+{"text": "\u00e8 meglio spiegare all' insegnante il motivo per cui non si \u00e8 riusciti a fare i compiti . ", "target_word": "motivo", "choices": [6, 3, 2, 4], "label": 1}
+{"text": "Ricorda di indicare sempre le unit\u00e0 di misura appropriate . ", "target_word": "unit\u00e0", "choices": [4, 3, 1, 5], "label": 0}
+{"text": "l\u2019 approccio altruistico implica vedere la situazione dal punto di vista dell\u2019 altra persona . ", "target_word": "vista", "choices": [3, 2, 6, 1], "label": 1}
+{"text": "La natura morta \u00e8 uno dei primi progetti artistici per qualsiasi pittore in erba . ", "target_word": "natura", "choices": [5, 0, 6, 7], "label": 0}
+{"text": "Una donna ha un sacco di opzioni quando deve acquistare indumenti per andare in palestra . ", "target_word": "donna", "choices": [5, 6, 2, 4], "label": 1}
+{"text": "Ricevere una brutta notizia \u00e8 sempre qualcosa di devastante . ", "target_word": "notizia", "choices": [1, 4, 5, 3], "label": 1}
+{"text": "i decibel sono un' unit\u00e0 logaritmica a base 10 .", "target_word": "unit\u00e0", "choices": [4, 2, 5, 3], "label": 3}
+{"text": "Per trovare la soluzione finale del problema , prendi il logaritmo in base 10 e moltiplicalo per 10 .", "target_word": "problema", "choices": [3, 5, 4, 1], "label": 2}
+{"text": "Non pensare solo ai giochi da tavolo , considera anche i giochi fondati sul brainstorming . ", "target_word": "gioco", "choices": [6, 1, 4, 5], "label": 0}
+{"text": "Un dittongo \u00e8 una coppia di vocali che forma un singolo suono . ", "target_word": "coppia", "choices": [4, 6, 5, 3], "label": 2}
+{"text": "Deve essere compilato a mano nell\u2019 ufficio dove depositerai la richiesta oppure online . ", "target_word": "mano", "choices": [4, 0, 6, 5], "label": 2}
+{"text": "Organizza un appuntamento da sogno senza spendere una fortuna . ", "target_word": "sogno", "choices": [3, 1, 4, 2], "label": 3}
+{"text": "Pu\u00f2 capitare di dover eseguire la manovra di rianimazione dopo che l' animale \u00e8 stato investito da un veicolo . ", "target_word": "investire", "choices": [6, 4, 5, 1], "label": 0}
+{"text": "La regola \u00e8 non comprare mai le cose al loro prezzo di mercato . ", "target_word": "mercato", "choices": [4, 1, 3, 6], "label": 2}
+{"text": "Se vuoi imboccare la strada del successo , devi porti traguardi realistici . ", "target_word": "strada", "choices": [3, 5, 4, 2], "label": 3}
+{"text": "La luce del sole fa decomporre pi\u00f9 velocemente le feci ed evita problemi . ", "target_word": "decomporre", "choices": [2, 5, 6, 3], "label": 1}
+{"text": "Prenditi una pausa dai tuoi momenti di introspezione e concentra la tua attenzione sugli altri . ", "target_word": "momento", "choices": [0, 3, 2, 1], "label": 1}
+{"text": "Le risposte migliori sono quelle che ti permettono di ottenere una vittoria morale . ", "target_word": "vittoria", "choices": [1, 2, 5, 3], "label": 1}
+{"text": "Se il dolore alle gambe \u00e8 cronico , \u00e8 opportuno farti visitare da un professionista . ", "target_word": "dolore", "choices": [5, 7, 6, 4], "label": 2}
+{"text": "Puoi anche ideare un grido di guerra , come \u201c per l\u2019 esercito della libert\u00e0 ! \u201c , o qualcosa del genere . ", "target_word": "guerra", "choices": [4, 5, 3, 1], "label": 0}
+{"text": "Far soffrire tua moglie per valutare la sua reazione \u00e8 una pessima idea . ", "target_word": "moglie", "choices": [7, 6, 3, 5], "label": 1}
+{"text": "Se cominciare una nuova vita fosse facile , le persone sarebbero in continua evoluzione . ", "target_word": "vita", "choices": [0, 4, 3, 2], "label": 2}
+{"text": "Porta l' acqua ad ebollizione e , da quel momento , aspetta circa 40 - 50 minuti .", "target_word": "momento", "choices": [4, 2, 1, 7], "label": 0}
+{"text": "Vedi la separazione come un\u2019 opportunit\u00e0 da cui apprendere la lezione per superare la delusione . ", "target_word": "apprendere", "choices": [2, 5, 3, 1], "label": 2}
+{"text": "Non sbandierare il tuo desiderio di competizione , potresti infastidire gli altri corridori , che potrebbero sabotarti per non farti vincere . ", "target_word": "infastidire", "choices": [7, 5, 4, 3], "label": 2}
+{"text": "Ho bisogno di un quarto d' ora per schiarirmi le idee prima di continuare . ", "target_word": "idea", "choices": [4, 1, 2, 0], "label": 2}
+{"text": "Se ti limiti a comunicare a monosillabi , probabilmente sarai un po' arrugginita e imbarazzata . ", "target_word": "arrugginire", "choices": [3, 4, 5, 2], "label": 0}
+{"text": "Raccogli un campione di acqua con un contenitore pulito . ", "target_word": "acqua", "choices": [6, 7, 2, 5], "label": 1}
+{"text": "Gli scossoni , i dossi e le curve possono disturbare il sonno e farti sentire stanco . ", "target_word": "disturbare", "choices": [4, 2, 5, 7], "label": 0}
+{"text": "Puoi dimostrare a una ragazza che l' ami investendo un po' del tuo tempo in qualcosa che la faccia felice . ", "target_word": "ragazza", "choices": [4, 6, 7, 5], "label": 1}
+{"text": "Organizza la festa in luoghi destinati all\u2019 intrattenimento di adolescenti quando gli invitati hanno meno di 18 anni .", "target_word": "festa", "choices": [3, 5, 4, 6], "label": 1}
+{"text": "Prova a sostituire tutti i pensieri negativi con altri positivi . ", "target_word": "pensiero", "choices": [3, 4, 2, 1], "label": 2}
+{"text": "Consulta il tuo medico curante in caso il mal di testa fosse pi\u00f9 grave . ", "target_word": "testa", "choices": [5, 7, 6, 1], "label": 2}
+{"text": "Pensa cosa c' \u00e8 sotto ai tuoi timori , che sia deludere i tuoi genitori o non avere la vita che desideri . ", "target_word": "deludere", "choices": [6, 3, 5, 1], "label": 1}
+{"text": "e ' necessario conoscere a fondo il proprio settore e il mercato per determinare lo stipendio pi\u00f9 appropriato . ", "target_word": "mercato", "choices": [4, 2, 6, 3], "label": 3}
+{"text": "La somministrazione localizzata degli steroidi ha un tasso di successo del 95 % entro sei mesi dalla cura .", "target_word": "successo", "choices": [1, 4, 3, 5], "label": 1}
+{"text": "Esistono diverse istituzioni che aiutano le vittime di abusi . ", "target_word": "vittima", "choices": [6, 7, 5, 4], "label": 0}
+{"text": "Molti ragazzi vengono accompagnati dai genitori il primo giorno di scuola ", "target_word": "ragazzo", "choices": [6, 3, 5, 4], "label": 0}
+{"text": "l' aumento della temperatura \u00e8 causa di stress per i pesci rossi . ", "target_word": "causa", "choices": [3, 4, 6, 2], "label": 1}
+{"text": "Parla del pi\u00f9 e del meno con la gente che hai conosciuto da poco . ", "target_word": "gente", "choices": [2, 5, 1, 4], "label": 1}
+{"text": "Quando studi , leggi il libro di testo e gli appunti della lezione . ", "target_word": "libro", "choices": [3, 5, 4, 6], "label": 3}
+{"text": "Presenti sulla terra dall' epoca preistorica , esistono decine di migliaia di specie diverse di felci . ", "target_word": "terra", "choices": [2, 6, 5, 4], "label": 1}
+{"text": "Decidi quanto denaro investire nella tua rivista online . ", "target_word": "investire", "choices": [5, 7, 6, 4], "label": 3}
+{"text": "La corretta installazione del seggiolino per automobile viene spesso sottovalutata e mette in pericolo la vita del neonato . ", "target_word": "automobile", "choices": [4, 6, 7, 5], "label": 1}
+{"text": "Controllare le tue pulsazioni ti permette di monitorare il cuore senza particolari strumenti . ", "target_word": "cuore", "choices": [4, 2, 5, 6], "label": 3}
+{"text": "Ruota le caviglie e allunga i quadricipiti e i polpacci , cos\u00ec da attivare la circolazione . ", "target_word": "attivare", "choices": [5, 2, 7, 6], "label": 0}
+{"text": "La spaziatura tra i denti \u00e8 un problema comune che viene affrontato con l\u2019 apparecchio . ", "target_word": "problema", "choices": [1, 3, 4, 6], "label": 2}
+{"text": "Per attaccare la griglia di una ventola , collega il motore all' unit\u00e0 elettrica e fissalo con le viti fornite . ", "target_word": "unit\u00e0", "choices": [4, 6, 5, 7], "label": 1}
+{"text": "Per distruggere questi documenti , non \u00e8 sufficiente gettarli nella spazzatura . ", "target_word": "distruggere", "choices": [5, 3, 4, 6], "label": 3}
+{"text": "Un registratore portatile digitale ha il vantaggio di essere relativamente piccolo e portatile . ", "target_word": "vantaggio", "choices": [1, 3, 0, 5], "label": 1}
+{"text": "Il tuo comportamento deve ispirare serenit\u00e0 . ", "target_word": "ispirare", "choices": [5, 1, 3, 2], "label": 2}
+{"text": "Analizza i risultati dell' ecocardiogramma per accertare irregolarit\u00e0 nelle dimensioni e nel movimento del cuore . ", "target_word": "risultato", "choices": [7, 4, 6, 3], "label": 2}
+{"text": "Avvitando il bullone le alette si allargheranno , assicurando il rivetto al soffitto . ", "target_word": "assicurare", "choices": [2, 4, 5, 6], "label": 2}
+{"text": "Quando ti svegli registra i tuoi sogni in un diario . ", "target_word": "sogno", "choices": [7, 2, 3, 0], "label": 2}
+{"text": "Il modo in cui si sorride pu\u00f2 influenzare la carriera , la vita sociale e i rapporti sentimentali . ", "target_word": "vita", "choices": [3, 5, 4, 1], "label": 2}
+{"text": "Se la tua televisione non \u00e8 in alta definizione , la nitidezza pu\u00f2 migliorare la qualit\u00e0 dell' immagine . ", "target_word": "migliorare", "choices": [3, 4, 5, 6], "label": 2}
+{"text": "Trova un modo per passare il tempo . ", "target_word": "modo", "choices": [6, 3, 2, 1], "label": 1}
+{"text": "Se non puoi raccogliere soldi , aggiungi la tua voce a quelle che lottano per porre fine alla povert\u00e0 o alla guerra . ", "target_word": "guerra", "choices": [6, 3, 4, 5], "label": 3}
+{"text": "Decidere di intraprendere la strada della guarigione \u00e8 gi\u00e0 un enorme passo avanti . ", "target_word": "strada", "choices": [1, 2, 3, 4], "label": 1}
+{"text": "Dai un' occhiata ai siti web che pubblicano notizie il pi\u00f9 spesso possibile . ", "target_word": "notizia", "choices": [1, 6, 4, 3], "label": 2}
+{"text": "Molte persone tralasciano l' idea di imparare a nuotare perch\u00e9 temono di affogare . ", "target_word": "affogare", "choices": [6, 2, 7, 5], "label": 0}
+{"text": "La maggior parte delle famiglie nelle aree urbane partecipano ad una raccolta differenziata . ", "target_word": "famiglia", "choices": [4, 6, 5, 1], "label": 1}
+{"text": "Addestra il cucciolo a obbedire a i tuoi comandi . ", "target_word": "obbedire", "choices": [4, 1, 3, 7], "label": 0}
+{"text": "Il loro campo d' azione \u00e8 limitato dal tipo di legge da essi praticata . ", "target_word": "campo", "choices": [1, 4, 3, 2], "label": 3}
+{"text": "La mancanza di intimit\u00e0 fisica potrebbe ostacolare la tua felicit\u00e0 . ", "target_word": "ostacolare", "choices": [1, 4, 0, 6], "label": 1}
+{"text": "La migliore arte proviene dal comunicare la propria persona in maniera autentica . ", "target_word": "arte", "choices": [2, 3, 1, 4], "label": 1}
+{"text": "Evita di dormire in posizione prona dopo il primo trimestre . ", "target_word": "dormire", "choices": [5, 6, 4, 7], "label": 1}
+{"text": "Alcune pietanze disturbano il riposo notturno , mentre altre possono promuoverlo . ", "target_word": "disturbare", "choices": [3, 4, 6, 1], "label": 1}
+{"text": "Devi imparare come applicare il ghiaccio nel modo corretto e assicurarti che la ferita guarisca velocemente . ", "target_word": "guarire", "choices": [2, 5, 4, 1], "label": 1}
+{"text": "Non parlare alla tua amica con un' aria di sufficienza e non trattarla come se fosse debole . ", "target_word": "aria", "choices": [5, 2, 1, 4], "label": 1}
+{"text": "Per restare sulla strada del successo sono necessarie una buona pianificazione e un' onest\u00e0 totale . ", "target_word": "successo", "choices": [6, 1, 4, 2], "label": 3}
+{"text": "Non \u00e8 facile rompere il ghiaccio e flirtare con una ragazza che non conosci . ", "target_word": "flirtare", "choices": [4, 5, 0, 2], "label": 0}
+{"text": "Ricordi quanto sembravano terribili e noiosi i lunghi viaggi in auto quando eri un bambino ? ", "target_word": "viaggio", "choices": [3, 6, 5, 4], "label": 2}
+{"text": "Esercitati con il parkour , una parte fondamentale dell\u2019 allenamento di un ninja ! ", "target_word": "parte", "choices": [6, 0, 5, 4], "label": 3}
+{"text": "Cerca di capire il suo modo di pensare . ", "target_word": "modo", "choices": [2, 0, 3, 1], "label": 0}
+{"text": "Se \u00e8 il caso , pulisci l' unit\u00e0 esterna del condizionatore . ", "target_word": "unit\u00e0", "choices": [3, 5, 2, 6], "label": 3}
+{"text": "Rosso e giallo formano l' arancione , mentre giallo e blu formano il verde . ", "target_word": "verde", "choices": [6, 5, 0, 7], "label": 0}
+{"text": "i libri , le riviste e i giornali spesso si accumulano in casa , soprattutto se ne acquisti tanti . ", "target_word": "libro", "choices": [5, 6, 1, 4], "label": 1}
+{"text": "Certe convinzioni possono anche causare dolore e sofferenza . ", "target_word": "dolore", "choices": [4, 2, 3, 1], "label": 0}
+{"text": "Se non riesci a separarti dai tuoi amici virtuali , tieniti in contatto con loro via chat. ", "target_word": "amico", "choices": [2, 6, 4, 5], "label": 3}
+{"text": "Se decidi di uccidere un animale , fai in modo di rendere onore al suo sacrificio . ", "target_word": "onore", "choices": [5, 2, 4, 1], "label": 1}
+{"text": "nascondi il cibo del cane per stimolarlo a cacciare in un ambiente simulato . ", "target_word": "nascondere", "choices": [3, 4, 5, 7], "label": 2}
+{"text": "Se soffri per causa sua , se ti delude ripetutamente , considera di allontanarti da quella storia d\u2019 amore . ", "target_word": "deludere", "choices": [2, 6, 3, 7], "label": 2}
+{"text": "La caffeina pu\u00f2 scatenare crisi da astinenza , con sintomi quali mal di testa e difficolt\u00e0 di concentrazione . ", "target_word": "crisi", "choices": [3, 6, 4, 5], "label": 2}
+{"text": "Usa una coperta antincendio per soffocare il fuoco . ", "target_word": "soffocare", "choices": [4, 7, 3, 5], "label": 3}
+{"text": "Il cavallo pu\u00f2 soffocare anche quando ingerisce eventuali pezzi di oggetti che tende a rosicchiare . ", "target_word": "soffocare", "choices": [4, 2, 5, 1], "label": 2}
+{"text": "Cerca di capire perch\u00e9 tradisci il tuo partner. ", "target_word": "tradire", "choices": [6, 5, 4, 3], "label": 2}
+{"text": "Non fare minacce e non tradire le tue intenzioni quando hai deciso di combattere . ", "target_word": "tradire", "choices": [3, 2, 5, 4], "label": 0}
+{"text": "Quando tradisci la fiducia di qualcuno , questo pu\u00f2 scatenare emozioni forti in entrambi. ", "target_word": "tradire", "choices": [2, 4, 3, 1], "label": 0}
+{"text": "Mediante il linguaggio del corpo e le espressioni del viso rischi di tradire le tue vere emozioni . ", "target_word": "tradire", "choices": [6, 2, 7, 3], "label": 3}
+{"text": "Evita di umiliare i tuoi impiegati o le persone con cui lavori . ", "target_word": "umiliare", "choices": [5, 4, 2, 3], "label": 1}
+{"text": "Tutti i cittadini statunitensi , neonati inclusi , devono avere un passaporto quando viaggiano in aereo all\u2019 estero . ", "target_word": "viaggiare", "choices": [7, 2, 5, 6], "label": 3}
+{"text": "Utilizza la costante matematica della velocit\u00e0 della luce , velocit\u00e0 a cui viaggiano le onde elettromagnetiche . ", "target_word": "viaggiare", "choices": [1, 4, 3, 5], "label": 1}
+{"text": "Decidi se vuoi viaggiare su una nave da crociera grande o piccola . ", "target_word": "viaggiare", "choices": [3, 6, 2, 4], "label": 1}
+{"text": "Le placche presenti nelle arterie carotidi si staccano e viaggiano nel sistema sanguigno . ", "target_word": "viaggiare", "choices": [6, 5, 7, 4], "label": 3}
+{"text": "La squadra che ha totalizzato pi\u00f9 punti vince la partita . ", "target_word": "vincere", "choices": [4, 7, 6, 5], "label": 3}
+{"text": "Cedi su alcune parti della discussione per vincere la disputa generale . ", "target_word": "vincere", "choices": [0, 2, 3, 4], "label": 2}
+{"text": "Tutti vorrebbero vincere la lotteria , ma la maggior parte di noi non azzecca un numero . ", "target_word": "vincere", "choices": [1, 4, 0, 5], "label": 1}
+{"text": "Potrai vincere le tue paure mettendole per iscritto . ", "target_word": "vincere", "choices": [2, 6, 3, 4], "label": 0}
+{"text": "Guardati i piedi o fai finta di essere affascinata dalla copertina del tuo libro . ", "target_word": "affascinare", "choices": [6, 4, 0, 2], "label": 3}
+{"text": "Sei affascinato dal funzionamento della mente umana ? ", "target_word": "affascinare", "choices": [1, 2, 3, 4], "label": 1}
+{"text": "Pensa ai tuoi sentimenti di amore , passione e la sessualit\u00e0 . ", "target_word": "amore", "choices": [3, 1, 7, 4], "label": 0}
+{"text": "Quasi tutti sono in grado di ricevere amore e gentilezza . ", "target_word": "amore", "choices": [4, 5, 2, 1], "label": 2}
+{"text": "Accendi il condizionatore sull\u2019 aria fredda ma non attivare la funzione di ricircolo . ", "target_word": "aria", "choices": [6, 3, 4, 2], "label": 0}
+{"text": "Chi vuole darsi delle arie di superiorit\u00e0 usa tono accondiscendente e battute dello stesso tipo . ", "target_word": "aria", "choices": [3, 1, 2, 5], "label": 2}
+{"text": "Osserva come lo zentangle si differenzia dalle altre forme d\u2019 arte visiva . ", "target_word": "arte", "choices": [4, 7, 3, 2], "label": 2}
+{"text": "Tirare su il prezzo \u00e8 una vera arte , dunque inizia a coltivarla sin da ora . ", "target_word": "arte", "choices": [4, 3, 6, 2], "label": 3}
+{"text": "Attualmente la forma pi\u00f9 comune di inquinamento acustico deriva dai trasporti , soprattutto automobili , motociclette e aeroplano . ", "target_word": "automobile", "choices": [3, 7, 4, 6], "label": 1}
+{"text": "Guidare un\u2019 automobile \u00e8 una delle cose potenzialmente pi\u00f9 pericolose che si possa fare . ", "target_word": "automobile", "choices": [4, 5, 6, 3], "label": 2}
+{"text": "Adulti e bambini devono avere il passaporto per espatriare anche via mare o terra . ", "target_word": "bambino", "choices": [6, 4, 2, 5], "label": 0}
+{"text": "Prima della data prevista della nascita del bambino , devi stabilire chi sar\u00e0 presente per aiutarti . ", "target_word": "bambino", "choices": [2, 7, 5, 6], "label": 1}
+{"text": "Generalmente , un campione di sangue verr\u00e0 sottoposto a diversi esami differenti , oltre a quello per il colesterolo . ", "target_word": "campione", "choices": [4, 6, 3, 5], "label": 1}
+{"text": "Osservare un campione al microscopio permette di focalizzarlo meglio e di analizzarlo in modo pi\u00f9 particolareggiato . ", "target_word": "campione", "choices": [4, 6, 3, 5], "label": 1}
+{"text": "Prepara una cenetta romantica oppure prendi delle pietanze da asporto tornando a casa . ", "target_word": "casa", "choices": [4, 7, 5, 6], "label": 1}
+{"text": "Tenere una volpe in casa \u00e8 illegale in molti Paesi . ", "target_word": "casa", "choices": [6, 5, 7, 4], "label": 0}
+{"text": "Aggiungi i dati su lavoro , istruzione , citt\u00e0 in cui vivi , etc. ", "target_word": "citt\u00e0", "choices": [6, 5, 4, 3], "label": 0}
+{"text": "Nella maggior parte delle citt\u00e0 troverai piste ciclabili . ", "target_word": "citt\u00e0", "choices": [3, 5, 6, 2], "label": 2}
+{"text": "Non sentirti in colpa per il fatto di goderti la vita . ", "target_word": "colpa", "choices": [6, 0, 5, 2], "label": 3}
+{"text": "Preparati a prenderti tutta la colpa e nessun merito . ", "target_word": "colpa", "choices": [2, 4, 1, 3], "label": 0}
+{"text": "Inizia con dei massaggi di 30 minuti alla gamba , concentrandoti sui muscoli anteriori e posteriori della coscia . ", "target_word": "concentrare", "choices": [5, 1, 3, 0], "label": 2}
+{"text": "Invece di cercare di sviluppare decine di poteri psichici simultaneamente , concentrati su una abilit\u00e0 alla volta . ", "target_word": "concentrare", "choices": [6, 2, 3, 0], "label": 2}
+{"text": "Il corpo umano \u00e8 abitudinario e rispetta dei ritmi biologici ben precisi . ", "target_word": "corpo", "choices": [6, 4, 5, 7], "label": 0}
+{"text": "Quando ci prendiamo cura del nostro corpo , miglioriamo il nostro stato emotivo e psicologico . ", "target_word": "corpo", "choices": [7, 6, 5, 4], "label": 1}
+{"text": "cucinare \u00e8 qualcosa che pu\u00f2 fare praticamente chiunque . ", "target_word": "cucinare", "choices": [5, 3, 7, 6], "label": 3}
+{"text": "Se la ricetta ti indica di cucinare il pollo non spellato , \u00e8 quello che devi fare . ", "target_word": "cucinare", "choices": [6, 5, 7, 3], "label": 0}
+{"text": "Dovrai sbarazzarti di alcuni pensieri che danneggiano la tua autostima . ", "target_word": "danneggiare", "choices": [3, 1, 7, 2], "label": 3}
+{"text": "Un eccessivo consumo di alcool pu\u00f2 danneggiare i vasi sanguigni della pelle . ", "target_word": "danneggiare", "choices": [4, 6, 7, 5], "label": 1}
+{"text": "Generalmente , i dipendenti detestano i meeting eccessivamente lunghi , e a ragione . ", "target_word": "detestare", "choices": [0, 3, 2, 5], "label": 1}
+{"text": "Se lei ti piace e vuoi che smetta di detestarti , devi scusarti . ", "target_word": "detestare", "choices": [0, 3, 4, 2], "label": 3}
+{"text": "Avere lo stomaco pieno disturba il riposo . ", "target_word": "disturbare", "choices": [3, 2, 6, 4], "label": 3}
+{"text": "Le radici delle piante sono piuttosto superficiali perci\u00f2 quando scavi fallo senza disturbare o danneggiare le radici . ", "target_word": "disturbare", "choices": [1, 4, 5, 3], "label": 1}
+{"text": "Scegli un fiore in armonia con la donna che lo indosser\u00e0 e col suo abito . ", "target_word": "donna", "choices": [5, 6, 3, 7], "label": 1}
+{"text": "Un sari \u00e8 un abito tradizionale indossato dalle donne indiane . ", "target_word": "donna", "choices": [6, 2, 7, 3], "label": 0}
+{"text": "Il migliore fissaggio prevede che i supporti siano agganciati ad elementi strutturali . ", "target_word": "elemento", "choices": [2, 5, 6, 4], "label": 2}
+{"text": "Puoi usare degli elementi fisici , come le costruzioni per bambini , per analizzare le strutture complicate . ", "target_word": "elemento", "choices": [5, 4, 6, 3], "label": 2}
+{"text": "Durante la festa , assicurati di parlare con tutti . ", "target_word": "festa", "choices": [5, 6, 4, 3], "label": 1}
+{"text": "La torta a una festa di compleanno va bene , ma torte e gelati tutti i giorni no. ", "target_word": "festa", "choices": [4, 5, 3, 7], "label": 1}
+{"text": "La pianta continua a fiorire dalla primavera per tutta l' estate fino a inizio autunno . ", "target_word": "fiorire", "choices": [5, 4, 2, 6], "label": 3}
+{"text": "Una persona che fiorisce tardi \u00e8 una pensatrice profonda e meno frettolosa rispetto alla massa . ", "target_word": "fiorire", "choices": [2, 5, 3, 1], "label": 0}
+{"text": "Pensa alla gente che conosci molto bene e mettila a confronto con il nuovo arrivato . ", "target_word": "gente", "choices": [6, 7, 5, 2], "label": 0}
+{"text": "Quando eri pi\u00f9 giovane , probabilmente ti piacevano i luoghi chiassosi e pieni di gente . ", "target_word": "gente", "choices": [7, 3, 4, 6], "label": 3}
+{"text": "In passato , solo i giovani e gli studenti cercavano lavori estivi , ma la situazione ora \u00e8 cambiata . ", "target_word": "giovane", "choices": [5, 2, 6, 4], "label": 0}
+{"text": "Quello dei romanzi d' amore per giovani \u00e8 un mercato in espansione . ", "target_word": "giovane", "choices": [4, 6, 3, 5], "label": 3}
+{"text": "Devi avere le idee chiare sulla politica . ", "target_word": "idea", "choices": [3, 1, 4, 2], "label": 3}
+{"text": "Quando credi di avere annotato sufficienti idee , leggile due volte . ", "target_word": "idea", "choices": [1, 3, 4, 2], "label": 3}
+{"text": "Dovrebbe essere un premio che incoraggia le persone a condividere l\u2019 informazione con gli amici . ", "target_word": "incoraggiare", "choices": [5, 1, 3, 2], "label": 2}
+{"text": "Per creare un ambiente pi\u00f9 positivo devi incoraggiare e sostenere le persone con cui lavori . ", "target_word": "incoraggiare", "choices": [4, 2, 3, 1], "label": 2}
+{"text": "Se hai delle prove fisiche , non danneggiarle o inquinarle : consegnale al tuo avvocato o portale in tribunale . ", "target_word": "inquinare", "choices": [3, 4, 5, 0], "label": 1}
+{"text": "Verso la fine del processo di distillazione si formano elementi chimici di scarto che non devono inquinare la vodka . ", "target_word": "inquinare", "choices": [2, 4, 3, 5], "label": 3}
+{"text": "Ricorda che l' industria cinematografica investe molto impegno per rendere i suoi film credibili . ", "target_word": "investire", "choices": [2, 1, 3, 6], "label": 2}
+{"text": "Se la tua macchina \u00e8 piccola , potresti investire in barre portapacchi o portapacchi veri e propri. ", "target_word": "investire", "choices": [2, 3, 5, 1], "label": 1}
+{"text": "Anche la lettera di presentazione dovrebbe essere convertita in un documento di solo testo . ", "target_word": "lettera", "choices": [6, 7, 5, 4], "label": 0}
+{"text": "Una lettera di intenti viene inviata da un potenziale acquirente nelle prime fasi della trattativa . ", "target_word": "lettera", "choices": [7, 1, 4, 6], "label": 3}
+{"text": "Durante l' inverno ci sono meno ore di luce e si trascorre pi\u00f9 tempo al chiuso . ", "target_word": "luce", "choices": [7, 6, 4, 2], "label": 1}
+{"text": "Troppa esposizione alla luce del sole pu\u00f2 essere dannosa per la pelle . ", "target_word": "luce", "choices": [4, 7, 6, 5], "label": 1}
+{"text": "Questa pianta ottiene la maggior parte delle sue sostanze nutritive mangiando insetti e ragni . ", "target_word": "mangiare", "choices": [7, 4, 1, 6], "label": 3}
+{"text": "Riduci i carboidrati raffinati e mangia pi\u00f9 proteine magre e verdure . ", "target_word": "mangiare", "choices": [6, 4, 5, 7], "label": 3}
+{"text": "Non mettere tuo figlio in punizione perch\u00e9 si masturba . ", "target_word": "masturbare", "choices": [4, 3, 6, 5], "label": 2}
+{"text": "Organizza un programma per evitare di masturbarti in certi momenti della giornata . ", "target_word": "masturbare", "choices": [6, 5, 4, 7], "label": 0}
+{"text": "Lascia che tua moglie senta quanto la ami , illuminandoti quando la vedi. ", "target_word": "moglie", "choices": [6, 5, 3, 4], "label": 0}
+{"text": "Non \u00e8 semplice essere una buona moglie , anche se hai un marito praticamente perfetto . ", "target_word": "moglie", "choices": [4, 6, 5, 7], "label": 2}
+{"text": "Comprendere il motivo per cui la gente si comporta in maniera sgarbata ti permetter\u00e0 di ampliare la prospettiva sul problema . ", "target_word": "motivo", "choices": [1, 4, 3, 5], "label": 2}
+{"text": "Quando c' \u00e8 un motivo di preoccupazione , l' ansia \u00e8 una risposta a uno scenario reale o immaginario . ", "target_word": "motivo", "choices": [5, 3, 2, 4], "label": 1}
+{"text": "i gattini appena nati iniziano a nutrirsi con il latte materno . ", "target_word": "nutrire", "choices": [3, 6, 2, 5], "label": 1}
+{"text": "La maschera al miele ha lo scopo di nutrire e idratare la pelle e non di detergerla . ", "target_word": "nutrire", "choices": [3, 5, 4, 7], "label": 1}
+{"text": "Ci sono pettegolezzi innocui e altri che invece possono ferire e offendere qualcuno . ", "target_word": "offendere", "choices": [4, 2, 6, 5], "label": 0}
+{"text": "Durante le discussioni evita di offendere il partner. ", "target_word": "offendere", "choices": [5, 3, 4, 2], "label": 2}
+{"text": "Fissa un incontro con il tuo padre spirituale . ", "target_word": "padre", "choices": [2, 5, 3, 6], "label": 2}
+{"text": "Vai a fare compere da sola , cos\u00ec tuo padre e tua madre non sapranno cosa stai acquistando . ", "target_word": "padre", "choices": [4, 6, 5, 3], "label": 1}
+{"text": "Non puoi fare due bracciate prendendo il respiro solo una volta , pena la squalifica . ", "target_word": "pena", "choices": [5, 2, 3, 1], "label": 2}
+{"text": "Tutti cerchiamo di evitare le pene d' amore . ", "target_word": "pena", "choices": [1, 4, 5, 3], "label": 3}
+{"text": "Decidi quante persone vuoi che facciano parte del tuo club. ", "target_word": "persona", "choices": [6, 7, 4, 5], "label": 0}
+{"text": "Una porzione di petto di tacchino \u00e8 di circa 125 - 250 g a persona . ", "target_word": "persona", "choices": [5, 2, 6, 3], "label": 0}
+{"text": "Connetti l' altro capo del cavo alla porta di ingresso del preamplificatore . ", "target_word": "porta", "choices": [4, 6, 5, 7], "label": 1}
+{"text": "Se hai problemi di connessione con qualche programma , potresti dover aprire manualmente alcune porte . ", "target_word": "porta", "choices": [3, 6, 4, 1], "label": 2}
+{"text": "Le aziende piccole offrono pi\u00f9 opportunit\u00e0 , mentre quelle grandi danno pi\u00f9 prestigio al tuo curriculum. ", "target_word": "prestigio", "choices": [6, 3, 1, 2], "label": 1}
+{"text": "Per un leader , il prestigio o il benessere sono un effetto collaterale , piuttosto che una motivazione . ", "target_word": "prestigio", "choices": [2, 5, 1, 6], "label": 0}
+{"text": "Inizia salutando il ragazzo con un cenno quando lo incontri in classe . ", "target_word": "salutare", "choices": [5, 7, 6, 3], "label": 2}
+{"text": "Sorridi mentre parli o mentre vi salutate . ", "target_word": "salutare", "choices": [6, 3, 4, 5], "label": 0}
+{"text": "Le erbacce possono soffocare i fagiolini , impedendo loro di emergere in superficie . ", "target_word": "soffocare", "choices": [2, 4, 7, 5], "label": 3}
+{"text": "Sappi soltanto che sta cercando di aiutarti , pertanto non soffocare le tue emozioni . ", "target_word": "soffocare", "choices": [0, 2, 4, 3], "label": 1}
+{"text": "In questo modo non dovrai creare spazio sul tuo cellulare per il file di aggiornamento . ", "target_word": "spazio", "choices": [4, 6, 3, 2], "label": 0}
+{"text": "Poni sotto gli scaffali una scrivania o un tavolino da toeletta per sfruttare al meglio lo spazio verticale . ", "target_word": "spazio", "choices": [4, 6, 3, 5], "label": 3}
+{"text": "Mentre alcuni avvocati rifiuteranno l' offerta , quelli con spirito imprenditoriale saranno deliziati dall' idea . ", "target_word": "spirito", "choices": [2, 4, 3, 0], "label": 0}
+{"text": "Se stai cercando di contattare lo spirito di una persona defunta hai bisogno di usare un amuleto per attirarlo . ", "target_word": "spirito", "choices": [3, 2, 0, 7], "label": 1}
+{"text": "Accettare di avere un problema \u00e8 il primo passo sulla strada della ripresa . ", "target_word": "strada", "choices": [4, 5, 2, 3], "label": 3}
+{"text": "Percorri strade in salita con la bici. ", "target_word": "strada", "choices": [5, 4, 6, 7], "label": 3}
+{"text": "Assicurati che la testa sia sollevata pi\u00f9 in alto rispetto al resto del corpo . ", "target_word": "testa", "choices": [3, 4, 5, 6], "label": 3}
+{"text": "Tu non sei i pensieri nella tua testa . ", "target_word": "testa", "choices": [4, 5, 3, 6], "label": 1}
+{"text": "Le migliori sedie da ufficio dovrebbero offrire un supporto lombare . ", "target_word": "ufficio", "choices": [6, 4, 5, 7], "label": 0}
+{"text": "Recati presso l' ufficio del Tribunale Distrettuale e consegna i documenti al cancelliere . ", "target_word": "ufficio", "choices": [2, 5, 3, 6], "label": 3}
+{"text": "Non sempre l' uomo della strada ha accesso a tutte le informazioni pertinenti . ", "target_word": "uomo", "choices": [2, 0, 5, 4], "label": 3}
+{"text": "Rafforza la stretta afferrandogli l' avambraccio con l' altra mano , proprio come un uomo d' affari . ", "target_word": "uomo", "choices": [6, 4, 3, 5], "label": 3}
+{"text": "Hai l' obbligo di dire la verit\u00e0 e di essere un modello di comportamento per gli altri . ", "target_word": "verit\u00e0", "choices": [2, 3, 5, 6], "label": 1}
+{"text": "In un modo o nell' altro , la verit\u00e0 viene sempre a galla . ", "target_word": "verit\u00e0", "choices": [1, 6, 4, 3], "label": 3}
+{"text": "Organizza dei viaggi nel fine settimana quando entrambi avete del tempo libero . ", "target_word": "viaggio", "choices": [7, 4, 5, 6], "label": 2}
+{"text": "Pesa le tue valigie prima del viaggio per evitare costosi supplementi . ", "target_word": "viaggio", "choices": [6, 3, 5, 4], "label": 2}
+{"text": "\u00e8 molto importante non perdere di vista la propria felicit\u00e0 . ", "target_word": "vista", "choices": [3, 4, 2, 0], "label": 2}
+{"text": "i conigli hanno un ottimo udito e un' ottima vista e possono individuare i predatori facilmente . ", "target_word": "vista", "choices": [5, 7, 3, 4], "label": 0}

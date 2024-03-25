@@ -1,0 +1,451 @@
+testset_idx	TARGET	POS	INDEX	TEXT	AVG
+1	nascondere	N	12	Ricarica il fucile se durante lo scontro a fuoco hai possibilità di nasconderti . 	5.775
+2	decorare	V	10	Appendere delle immagini alle pareti è un ottimo modo per decorare e personalizzare uno spazio . 	6.128
+3	speranza	N	14	Quando una storia finisce , non cercare di negare l’ evidenza aggrappandoti a false speranze . 	2.225
+4	film	N	13	Se hai la pelle unta ,un sapone specifico potrebbe aiutarti a produrre meno film lipidico , riducendo perciò il problema . 	5.867
+5	festa	N	3	Ideale per le feste in costume , il cappello è facile da realizzare completamente in feltro . 	5.306
+6	moglie	N	8	Non sprecare tempo nel tentativo di diventare una moglie migliore . 	4.438
+7	decorare	V	4	Esistono molte maniere per decorare questo spazio , rendendolo invitante e caldo . 	5.6
+8	pensiero	N	4	Metti in discussione i pensieri negativi che riguardano il tuo corpo . 	3
+9	guerra	N	10	Solo dopo aver migliorato la tua autostima potrai vincere la guerra contro il disturbo da alimentazione incontrollata . 	3.375
+10	risposta	N	4	Gli incubi innescano una risposta fisiologica , come accelerazione del battito cardiaco e sudorazione fredda . 	4.438
+11	distruggere	V	4	Lo stress cronico può distruggere le cellule cerebrali e danneggiare l' ippocampo . 	5.25
+12	attivare	V	11	Lo zucchero fornirà il nutrimento necessario al lievito per incoraggiarlo ad attivare il suo metabolismo . 	3.567
+13	infastidire	V	1	Non infastidire e non molestare gli squali . 	4.417
+14	causa	N	2	Spesso la causa dell' otite è un' infezione batterica , che avviene durante una malattia di base . 	4
+15	unità	N	11	Controlla costantemente il respiro e il polso fino all' intervento dell' unità di emergenza . 	5
+16	storia	N	11	Il medico può scegliere la terapia farmacologica in base alla tua storia clinica . 	4.219
+17	danneggiare	V	9	Un giradischi regolato male o peggio ancora rotto potrebbe danneggiare il disco . 	5.484
+18	gente	N	8	Mostrati al meglio e cerca la compagnia della gente più interessante . 	5.067
+19	ragazza	N	2	Se una ragazza copia i tuoi atteggiamenti potrebbe imitarti in modo inconscio . 	5.872
+20	risposta	N	4	Per trovare una bella risposta ironica , dovrai replicare direttamente a ciò che ti hanno detto . 	4.219
+21	risultato	N	4	La dieta vegetariana produce risultati molto positivi durante la gravidanza . 	4.032
+22	colore	N	4	Continua a mescolare i colori finché la pittura non sarà distribuita uniformemente . 	6.275
+23	casa	N	10	Evita di cucinare tanto o di fare altri lavori di casa . 	5.1
+24	prestigio	N	8	Ricorda che venire recensito da qualcuno ti darà prestigio . 	2.226
+25	momento	N	4	Impara a superare i momenti di crisi e ad apprezzarti per quello che sei . 	3.154
+26	disprezzare	V	7	Studia ogni stile di lotta e non disprezzare gli altri stili , perché ciò ti indebolirebbe . 	2.667
+27	colpire	V	0	colpisci il tamburo piegando il polso per muovere la bacchetta su e giù . 	6.4
+28	qualità	N	3	Non necessariamente la qualità si rifletterà nel prezzo , anche se è un indicatore abbastanza buono . 	3.097
+29	amore	N	5	Costruire una base per l' amore fisico richiede tempo . 	3.222
+30	concentrare	V	4	Chiudi gli occhi e concentrati sul respiro che entra ed esce dal tuo corpo . 	4.367
+31	gioco	N	5	Spettegolando fai il suo stesso gioco e non rafforzi la tua autostima . 	2.425
+32	ragazza	N	2	Ad alcune ragazze timide piacciono le persone divertenti . 	5.949
+33	ragazzo	N	4	Non è facile trovare ragazzi che siano davvero capaci di essere divertenti . 	5.7
+34	porta	N	4	Vernicia la superficie della porta e sembrerà nuova di zecca ! 	6.906
+35	flirtare	V	4	Se desideri imparare come flirtare con una ragazza sin da subito , segui questi semplici passi . 	3.744
+36	decorare	V	1	Potrai decorare la stanza anche con giochi per bambini , quali paperotte di gomma o altri animali . 	5.733
+37	dolore	N	3	Valuta se il dolore toracico può essere dovuto a un attacco di cuore . 	5.938
+38	spazio	N	18	Poiché sulla Terra siamo soggetti alla gravità , la vita quotidiana non è utile a simulare quella nello spazio . 	5
+39	accordo	N	4	Una volta raggiunto un accordo sul prezzo , il compratore versa un piccolo deposito . 	4.359
+40	fiorire	V	10	Non appena hai un' idea ( e le persone che fioriscono tardi ne hanno tante ) , scrivila . 	2.367
+41	mese	N	2	Se ogni mese puoi pagare una quota di capitale , alla fine avrai speso meno in interessi . 	4.313
+42	infastidire	V	3	Rispondere al telefono infastidirà il professore perché gli farà capire che non hai rispetto per le regole . 	4.367
+43	assicurare	V	7	Fai una lista delle tue priorità per assicurarti di raggiungere le mete che ti sei proposto . 	3.359
+44	immaginare	V	0	immagina degli scenari divertenti o felici . 	2.744
+45	libro	N	8	Come si suol dire , non giudicare un libro dalla copertina . 	5.125
+46	verità	N	2	Diciamo la verità , ognuno di noi ha delle cattive abitudini . 	2.344
+47	tempo	N	2	Concediti il tempo per dedicarti alle attività che ti piacciono . 	3.778
+48	pitturare	V	1	Puoi pitturare l’ argilla cotta con dei colori acrilici . 	6.051
+49	aria	N	5	Asciuga i capelli con l' aria fredda . 	5.967
+50	affogare	V	14	Non dare troppa acqua : le radici superficiali amano l' acqua ma non devono affogare . 	5.231
+51	calciare	V	6	Lo stretching costante ti permetterà di calciare più in alto e più velocemente . 	6.275
+52	mercato	N	3	Le indagini di mercato sono fondamentali per fare una ricerca di marketing. 	2.9
+53	problema	N	14	a causa del suo muso corto , il bulldog inglese tende a soffrire di problemi respiratori . 	5.094
+54	campione	N	12	Poiché alcuni test sono influenzati dal momento in cui viene raccolto il campione , questo deve essere riportato in ogni relazione . 	5
+55	soffocare	V	4	Potrebbe non essere simpatico soffocare il tuo orgoglio . 	2.125
+56	immaginare	V	3	Forse tendi a immaginare il peggior scenario possibile quando analizzi alcuni decisioni e incarichi . 	2.744
+57	motivo	N	7	Prima di agire , devi capire il motivo per cui intendi avere una discussione . 	2.613
+58	spazio	N	1	Concedi spazio al tuo fidanzato . 	2.861
+59	vittoria	N	2	Annuncia la vittoria al concorrente che ha ottenuto il punteggio più alto . 	4.156
+60	morte	N	4	Il soffocamento provoca la morte o danni cerebrali permanenti nel giro di pochi minuti . 	6.281
+61	automobile	N	3	Il radiatore dell' automobile svolge un ruolo importante di regolazione della temperatura del motore . 	6.462
+62	salvare	V	2	"Puoi anche salvare pagine al tuo "" Elenco lettura "" o sulla schermata principale del tuo iPad . "	4.556
+63	film	N	3	Anche noleggiare qualche film , preparare i popcorn e trascorrere una serata tranquilla può essere carino . 	6.167
+64	distruggere	V	3	Fare il bullo distrugge la propria reputazione . 	2.355
+65	ufficio	N	6	Ci sono molti oggetti nel tuo ufficio che puoi riciclare . 	6.387
+66	assicurare	V	0	assicurati che le persone sappiano che stai facendo un buon lavoro . 	2.167
+67	arrugginire	V	7	i migliori samurai lasciano la spada ad arrugginire nel fodero . 	4.778
+68	avventura	N	16	Circa i 2/3 degli uomini che tradiscono rivela di sentirsi in colpa dopo aver avuto un' avventura extraconiugale .	3.833
+69	famiglia	N	4	Le capesante appartengono alla famiglia delle ostriche e sono molto popolari in diverse culture . 	3.05
+70	colore	N	16	l’ autunno è il periodo migliore per controllare l’ albero , quando le foglie cambiano i colori . 	5.719
+71	mercato	N	5	Molti dei libri disponibili sul mercato hanno prezzi abbordabili . 	3.722
+72	campo	N	4	Dopo aver impostato i campi , clicca su Crea filtro . 	4.344
+73	tempo	N	2	Valuta quanto tempo sei in grado di dedicare all' attività di volontariato . 	4.444
+74	migliorare	V	4	Un po’ di cioccolato migliorerà il tuo umore e ti renderà più felice . 	3.917
+75	nascondere	V	7	Cerca di capire la fisica che si nasconde dietro alla terza legge di Newton . 	2.872
+76	attivare	V	4	Vai alla centralina e attiva la corrente elettrica . 	5.3
+77	causa	N	1	Due cause comuni di morte infantile sono la malnutrizione e l’ avvelenamento . 	4.25
+78	momento	N	9	Le insalate si conservano meglio se condite all' ultimo momento e non prima di metterle in frigo . 	2.95
+79	idea	N	5	Non aver paura di cambiare idea . 	1.933
+80	dolore	N	15	Che tipo di persona andrebbe alla ricerca di ogni piccolo difetto altrui solo per provocare dolore ? 	2.767
+81	amore	N	1	l' amore potrebbe essere cieco , ma non è corrotto o stupido . 	2.1
+82	mercato	N	5	Investire denaro , specialmente nel mercato azionario , implica dei rischi . 	2.719
+83	infastidire	V	5	Evita di sfogarti se sei infastidita o turbata , e affronta la situazione con calma e razionalità . 	4.025
+84	storia	N	1	La storia clinica della tua famiglia potrebbe essere la causa del problema . 	3.795
+85	vita	N	5	Devi anche avere una tua vita indipendente dalla tua relazione . 	3.438
+86	malattia	N	4	l’ eczema è una malattia della pelle che può provocare arrossamento , abrasioni e lesioni cutanee . 	6.094
+87	campione	N	6	Alcuni marchi di profumi possono fare campioni omaggio quando un nuovo profumo viene lanciato sul mercato . 	6.4
+88	deludere	V	4	i tuoi amici potrebbero deluderti non apprezzando l' idea , ma sii comprensivo e lavora insieme a loro . 	2.667
+89	strada	N	6	Trova un parcheggio vuoto o una strada secondaria tranquilla . 	6.419
+90	possibilità	N	5	Alcuni siti ti offrono la possibilità di pubblicare un video allegato al cv. 	3.075
+91	dormire	V	4	Riduci le possibilità di dormire in posizioni che aggravano il mal di schiena . 	6.139
+92	vantaggio	N	5	Se sai di avere un vantaggio sul tuo avversario , assicurati di sfruttarlo con saggezza . 	2.633
+93	offendere	V	1	Non offendere l' intelligenza di una donna comportandoti in maniera sarcastica . 	3.156
+94	verità	N	7	Affronta le conseguenze di aver scoperto la verità , qualunque essa sia . 	2.781
+95	lettera	N	1	Una lettera di interesse deve dimostrare il tuo interesse per un determinato argomento o tema . 	6.133
+96	perspicacia	N	5	Divertire i tuoi lettori con perspicacia aiuterà il tuo scritto ad ottenere risonanza . 	2.906
+97	apprendere	V	6	Gli adolescenti interagiscono , giocano e apprendono informazioni grazie alla rete . 	3.833
+98	commissione	N	4	Una presentazione davanti alla commissione è solitamente richiesta e il pubblico spesso è consentito . 	6.433
+99	sogno	N	2	Fare spesso sogni ricorrenti e inquietanti potrebbe essere il segnale di un malessere psicologico . 	3.103
+100	prestigio	N	14	Quando vogliamo essere incoraggiati e accettati , rincorriamo il sogno di guadagnare soldi e prestigio . 	2.032
+101	disturbare	V	3	La caffeina può disturbare il sonno , causando insonnia , o aggravare preesistenti problemi di sonno . 	4.128
+102	genere	N	1	Nessun genere musicale dovrebbe essere ignorato , nemmeno il country . 	3.063
+103	ufficio	N	7	Lavora con i piccoli negozianti , gli uffici della zona e le chiese . 	6.129
+104	risposta	N	5	i vaccini agiscono stimolando la risposta del sistema immunitario a degli specifici microrganismi . 	4.333
+105	coppia	N	5	Sperimenta il ballo liscio in coppia oppure azzarda una danza irlandese . 	5.844
+106	speranza	N	17	Se ti sembra di trovarti in un luogo deserto , urla con tutta la forza , nella speranza che arrivi qualcuno . 	2.45
+107	vittoria	N	3	Festeggia le piccole vittorie . 	3.25
+108	viaggio	N	6	Segui questi passaggi per iniziare il viaggio lungo il tuo cammino artistico . 	2.5
+109	terra	N	6	Fissa il cavo di messa a terra . 	4.774
+110	pensiero	N	3	Esprimere i tuoi pensieri ad alta voce ti permetterà di vederli da un' altra prospettiva . 	2.972
+111	lavare	V	7	Un trattamento molto efficace è quello di lavare i capelli con l' olio d' oliva . 	6.55
+112	pena	N	13	Assumere la colpa subito e aiutare con la risoluzione del problema renderà la pena o punizione meno dura . 	3.806
+113	manomettere	V	11	i livelli di Photoshop permettono di modificare le tue foto senza manomettere la versione originale . 	4.531
+114	immaginare	V	9	Se ti ama davvero , non riesce assolutamente a immaginare un futuro senza di te. 	2.167
+115	commissione	N	4	Se stai lavorando su commissione potresti avere la tentazione di vendere sempre a un prezzo superiore . 	3.469
+116	manomettere	V	18	Il poligrafo è visto come fonte d' ansia , persino da innocenti che dovrebbero superarlo senza imbrogliare o manomettere i risultati . 	4.313
+117	cuore	N	11	Usa un coltello per rimuovere la parte centrale e mangia il cuore del carciofo . 	6.167
+118	nero	N	13	Qualunque accessorio può essere carino anche se l' uniforme impone solo i colori nero e bianco . 	5.8
+119	guarire	V	9	Per promuovere la guarigione aspetta che il tempo faccia guarire le ferite . 	3.467
+120	danneggiare	V	4	Alcune pagine web possono danneggiare il tuo computer . 	4.097
+121	vantaggio	N	11	Se costruisci un buon giro di colleghi , sarà di tutto vantaggio per la tua carriera . 	2.467
+122	colpire	V	7	l' influenza è un' infezione virale che colpisce il sistema respiratorio . 	3.767
+123	commissione	N	15	Prova a indossare abiti carini - eleganti ma semplici - quando ti rechi a fare commissioni . 	4.6
+124	ragazzo	N	3	Se vedi un ragazzo che ti sta venendo incontro , non cambiare atteggiamento . 	6.2
+125	coppia	N	4	Lo sai che molte coppie sposate si sono conosciute sul posto di lavoro ? 	6.306
+126	gioco	N	4	Metti varie tipologie di giochi nella gabbia , così il tuo amico ha qualcosa con cui distrarsi . 	6.188
+127	modo	N	1	Il modo più efficace per fare il pieno di vitamina d è esporsi al sole . 	3.033
+128	incoraggiare	V	7	Lunedì senza carne è una campagna che incoraggia le persone a rinunciare alla carne un giorno a settimana . 	3.406
+129	nascondere	V	11	Le donne si accorgono se sei un orrendo verme che si nasconde dietro l’ apparenza di un gentiluomo . 	3.219
+130	possibilità	N	6	Sii consapevole di tutte le numerose possibilità di riciclo del vetro . 	3.564
+131	cuore	N	11	Modifica la postura in cui dormi , se ti svegli nel cuore della notte . 	2.1
+132	salvare	V	14	l' apicoltore non solo sarà felice di rimuovere le api , ma potrebbe anche salvare una specie in pericolo . 	4.4
+133	decomporre	V	8	Foglie o altri detriti organici , se lasciati decomporre , possono macchiare il fondo della piscina . 	5.516
+134	incoraggiare	V	3	Un modo per incoraggiare il dialogo consiste nell' aumentare l' intimità . 	3.5
+135	parte	N	8	Al fine di richiedere i danni , la parte lesa deve presentare una querela in sede penale , o civile o entrambe . 	4.821
+136	nutrire	V	5	Usa un buon fertilizzante per nutrire bene la pianta . 	5.375
+137	parte	N	2	La maggior parte delle volte , gli sfoghi sono dovuti a un aumento dell' afflusso di sangue alla superficie della pelle . 	2.067
+138	umiliare	N	6	Può capitare che qualcuno cerchi di umiliarti . 	3.031
+139	malattia	N	4	La depressione è una malattia , non qualcosa di cui vergognarti perché non pensi di avere motivo per essere triste . 	4.75
+140	parte	N	13	In base all' uso che devi fare della soluzione , puoi immergervi la parte lesa , pulirla o fare dei gargarismi . 	6.281
+141	apprendere	V	3	Puoi provare ad apprendere le tecniche di potatura per cercare di rivitalizzare la tua pianta . 	3.6
+142	parte	N	5	Non cercare di recitare la parte della persona che lui vorrebbe . 	2.219
+143	nutrire	V	3	Il tuo personaggio nutre sentimenti d’ odio o rancore nei confronti di uno degli altri personaggi ? 	1.969
+144	mangiare	V	2	Smetti di mangiarti le unghie . 	6.656
+145	cucinare	V	7	Magari nelle giornate lavorative ti risulta difficile cucinare , ma nei giorni liberi passi più tempo in cucina . 	5.233
+146	colore	N	15	Puoi utilizzare la scorza del limone come decorazione , se vuoi aggiungere un tocco di colore a un piatto o a un cocktail . 	4.813
+147	coppia	N	5	Solleva il carrello , una coppia di ruote alla volta , per fargli superare la soglia d' ingresso . 	5.775
+148	paura	N	4	Rabbia , panico , paura e frustrazione sono tutte emozioni che sicuramente ti faranno crollare e andare su tutte le furie . 	2.935
+149	elemento	N	6	La croce di legno è l' elemento strutturale principale della base del cesto . 	5.563
+150	pericolo	N	6	Aiutare qualcuno che si trova in pericolo di vita è certamente un gesto coraggioso . 	4.129
+151	benedire	V	2	Impara a benedire , invece che a criticare . 	2
+152	nutrire	V	2	Continua a nutrire l’ animale con il mangime finché non sarà il momento di liberarlo . 	5.833
+153	porta	N	7	Sostenere colloqui di lavoro ti apre altre porte e aumenta le possibilità di stabilire nuovi contatti . 	2.281
+154	irritare	V	9	Pensa all' ultima volta in cui qualcuno ti ha irritato e ti ha fatto esplodere . 	3.433
+155	genere	N	1	Alcuni generi alimentari sono difficili da digerire risultando , infine , danno si per il corpo invece che nutrienti . 	4.875
+156	lenire	V	2	Il calore lenisce e riduce il dolore muscolare , migliorando la circolazione del sangue nella zona colpita . 	4.75
+157	calciare	V	10	Fai il primo passo con il piede che usi per calciare . 	6.139
+158	coccolare	V	6	è il momento di smettere di coccolare i figli quando diventano adulti . 	4.846
+159	arrugginire	V	13	Più tempo trascorri senza usare le tue capacità , più il cervello si arrugginisce . 	2.528
+160	famiglia	N	6	Chiedi a tutti i componenti della famiglia di impegnarsi nelle faccende domestiche . 	5.6
+161	campo	N	4	i luoghi ideali includono campi , prati , colline , e il tuo giardino . 	6.45
+162	testa	N	7	Non riesci a farla uscire dalla tua testa , pensi a lei in continuazione e ovunque vai . 	3.094
+163	motivo	N	2	Esistono diversi motivi che potrebbero spingerti a migliorarti . 	2.7
+164	salvare	V	5	Se sei preparato , potrai salvare la vita di un altro individuo . 	4.313
+165	guarire	V	4	Lascia che il tempo guarisca le tue ferite . 	3.111
+166	amore	N	5	Determina la differenza , tra amore , infatuazione e passione . 	2.194
+167	fiorire	V	7	Impara a capire che le Clematidi che fioriscono tardi dovrebbero essere potate a fondo . 	5.806
+168	infastidire	V	2	Puoi anche infastidire il professore leggendo molto in anticipo un capitolo e intervenire al riguardo . 	4
+169	problema	N	2	Pensa ai problemi che devono affrontare gli adolescenti . 	2.806
+170	gioco	N	4	Non è necessario nessun gioco di prestigio , ma pura e semplice matematica . 	4.538
+171	guarire	V	6	l’ aria consentirà alla pelle di guarire in maniera più rapida . 	4.6
+172	libro	N	4	Scrivere e pubblicare un libro non è un' impresa facile . 	5.938
+173	ostacolare	V	7	Il distanziamento eviterà che le piante si ostacolino la crescita a vicenda . 	4.563
+174	motivo	N	6	Abusi fisici o psicologici sono un motivo più che valido per rompere immediatamente un rapporto . 	2.935
+175	sogno	N	4	Resta concentrato sui tuoi sogni e sugli obiettivi per la tua carriera . 	2.267
+176	spirito	N	7	Niente più di una partita inneggia allo spirito di squadra . 	1.71
+177	vantaggio	N	6	Ridurre il grasso corporeo offre molti vantaggi e benefici per la salute . 	3.694
+178	possibilità	N	3	Se hai la possibilità di controllare il termostato della stanza , impostalo su una temperatura gradevole . 	3.05
+179	pensiero	N	1	i pensieri e le preoccupazioni possono davvero scoraggiarci quando sono assillanti . 	2.8
+180	coccolare	V	4	Ogni tanto cerca di coccolare il tuo corpo . 	4.433
+181	elemento	N	4	l’ eleganza è un elemento che differenzia lo stile americano da quello europeo . 	2.688
+182	festa	N	2	Organizza una festa in casa invece di andare per bar con gli amici . 	5.233
+183	crisi	N	5	Non è facile superare una crisi finanziaria o evitare di indebitarsi . 	3.846
+184	demonio	N	14	Nonostante il nome , il satanismo ha davvero poco a che fare con il demonio descritto nella Bibbia . 	3.325
+185	possibilità	N	12	Eliminare i residui di cibo e sporcizia può aiutare a ridurre le possibilità d' infezione . 	3.41
+186	sogno	N	1	i sogni erotici non sono nulla per cui sentirsi in colpa . 	3.436
+187	avventura	N	9	Regalati una vacanza o un weekend all' insegna dell' avventura . 	3.031
+188	vita	N	16	Un riposo di qualità può giovare alla memoria e alla creatività e aumentare l' aspettativa di vita . 	4.188
+189	coppia	N	2	Raggruppa a coppie le cifre del numero sotto il segno del radicale . 	4.344
+190	vittoria	N	6	La dignità e l' umiltà nella vittoria e nella sconfitta sono fondamentali . 	2.806
+191	spazio	N	6	Se puoi permettertelo , compra degli spazi pubblicitari in radio o in tv per promuovere la tua attività . 	4.469
+192	infastidire	V	9	Evita che la tua attrezzatura galleggi liberamente andando a infastidire gli altri surfisti . 	4.033
+193	causa	N	2	Individua la causa che provoca i crampi alla coscia . 	4.077
+194	infornare	V	3	a fine cottura inforna la carne ed accendi il grill per rendere la pelle dorata e ben croccante . 	6.188
+195	fiorire	V	5	La maggior parte delle azalee fiorirà la primavera successiva . 	6.129
+196	morte	N	3	Non annoiarla a morte chiedendole qual è l' argomento più interessante del corso di algebra . 	1.972
+197	colpire	V	5	i ragazzi sono sempre piacevolmente colpiti dalle ragazze col senso dell' umorismo . 	2.611
+198	decorare	V	3	Ricorda che puoi decorare il calendario come preferisci , perciò usa la tua immaginazione ! 	5.051
+199	automobile	N	2	Guidare un' automobile con cambio automatico è più semplice rispetto a guidarne una con cambio manuale . 	6.933
+200	causa	N	5	Lo stress può essere la causa dei problemi di acidità di stomaco . 	3.949
+201	natura	N	12	Se l’ oculista ha stabilito che si tratta di un' infezione di natura virale , devi essere paziente . 	3
+202	ragazza	N	6	Sostieni una conversazione con la tua ragazza riguardo alla vostra relazione . 	6.469
+203	occhio	N	4	Le persone utilizzano gli occhi per comunicare molte emozioni . 	6.226
+204	uomo	N	2	Un vero uomo sa che in campo amoroso è la donna a scandire il ritmo . 	4.469
+205	amico	N	2	Recluta qualche amico robusto per farti aiutare . 	6.075
+206	mano	N	3	Stendi una prima mano di pittura . 	4.8
+207	fase	N	6	Una versione per Linux è in fase di sviluppo . 	3.063
+208	ragazzo	N	13	Usare gli occhi è un ottimo modo di attirare l’ attenzione di un ragazzo . 	5.968
+209	pena	N	7	Una società giusta non deve applicare la pena di morte come forma di punizione . 	4.548
+210	nero	N	4	Dipingi la ghirlanda di nero . 	6.225
+211	investire	V	6	Comprare le penny stock spesso significa investire in aziende piccole ed emergenti . 	3.719
+212	vittoria	N	3	Puoi puntare sulla vittoria del banco o del giocatore . 	4.444
+213	coccolare	V	2	Abbracciare , coccolare o baciare una persona cara allevierà l’ ansia e ti farà sentire amato . 	6.051
+214	lenire	V	16	Assicurati di essere pronto ad iniziare una relazione e non correre in braccio a qualcuno per lenire il tuo malessere del momento . 	3.406
+215	arrugginire	V	4	Le corde consumate o arrugginite si scordano più facilmente e rovinano le tue dita . 	6.15
+216	storia	N	4	i bambini piccoli preferiscono storie con trame e parole semplici . 	4.667
+217	distruggere	V	11	Allo stesso tempo , un pettegolezzo può danneggiare una persona , distruggerne la reputazione . 	3.325
+218	occhio	N	12	Qualsiasi bravo ozioso passa la maggior parte del tempo a sognare ad occhi aperti . 	3.548
+219	nutrire	V	2	i ragazzi nutrono interesse per le ragazze che sembrano divertenti e un po’ matte . 	2.194
+220	pensiero	N	2	Spesso i pensieri che affollano la mente durante la notte sembrano particolarmente opprimenti e inquietanti . 	2.75
+221	famiglia	N	5	Avere un buon supporto da famiglia e amici è fondamentale . 	5.923
+222	risposta	N	5	Anche se non dai la risposta corretta , dimostrerai che ti sei impegnato . 	4.778
+223	deludere	V	1	Non deludere le aspettative delle persone care . 	2.6
+224	madre	N	3	Per diventare una madre surrogata servono grandi doti di generosità . 	5.556
+225	mese	N	9	Dovresti concimare le tue piante meno frequentemente durante i mesi autunnali e invernali . 	4.5
+226	calciare	V	4	Hai mai imprecato , calciato qualcosa e urlato frasi oscene , spaventando chi ti era vicino ? 	5.725
+227	paura	N	6	Molti adulti hanno ammesso di avere paura del buio . 	2.806
+228	madre	N	1	Le madri coccodrillo difendono i propri cuccioli senza paura . 	6.361
+229	luce	N	5	Il bianco brillante riflette la luce invece di assorbirla . 	5.1
+230	spazio	N	2	Lascia dello spazio in valigia per lo shopping . 	6.25
+231	unità	N	7	Utilizza delle attività concrete pensate per ogni unità didattica . 	4.359
+232	acqua	N	5	Sciacqua un limone maturo con acqua fredda e tamponalo con un tovagliolo . 	6.469
+233	campione	N	8	Le fiere e altri festival di solito offrono campioni gratuiti per far avvicinare i passanti . 	5.875
+234	vittima	N	5	Quasi tutti gli scrittori cadono vittime del cosiddetto blocco dello scrittore . 	2.575
+235	salvare	V	9	Considera se , nonostante tutto , vale la pena salvare il vostro rapporto . 	2.563
+236	dormire	V	3	i tuoi genitori dormiranno sonni tranquilli sapendo che nessuno potrà ricorrere alle vie legali . 	3.6
+237	risultato	N	10	La qualità della carne è fondamentale in quanto determinerà il risultato finale della tua zuppa . 	4.567
+238	uomo	N	1	l' uomo è un animale sociale e , in virtù di questa caratteristica , è incline a parlare con chi non conosce . 	4.813
+239	apprendere	V	5	Ora che il cane ha appreso come abbaiare a comando , il prossimo passo sarà farlo smettere . 	3.258
+240	morte	N	5	Comprendi chi può salvarti dalla morte spirituale . 	2.719
+241	campo	N	2	Restringi il campo della tua ricerca includendo informazioni più specifiche . 	2.444
+242	parte	N	5	Se ti fermi da qualche parte per la notte , informati sugli hotel che accettano animali . 	4.6
+243	mutilare	V	7	i cani più piccoli rischiano di restare mutilati o uccisi dalle trappole per castori . 	6.219
+244	calciare	V	1	Non calciare il pallone troppo in alto . 	6.389
+245	pericolo	N	5	Il marciapiede ghiacciato rappresenta un pericolo per la propria sicurezza . 	3.903
+246	amico	N	8	Crea dei biglietti da visita , dillo ad amici e familiari e pubblicizza l’ evento sulle bacheche locali . 	6.031
+247	modo	N	10	i barattoli di vetro consentono di conservare gli alimenti in modo igienico e sicuro . 	3.281
+248	festa	N	5	Se sei ospite a una festa permettiti un piccolo strappo alla dieta . 	4.967
+249	mangiare	V	7	Compra il maglione che la tua amica mangiava con gli occhi al centro commerciale . 	2.344
+250	assicurare	V	0	assicurati che i dispositivi acustici utilizzati siano correttamente collegati al computer e in funzione . 	4.846
+251	accordo	N	8	Le persone saranno più disposte a essere d' accordo con te se ti apprezzano . 	2.167
+252	campo	N	1	i campi da calcio , da football e i parchi ( senza alberi ) sono ottime soluzioni . 	6.667
+253	gioco	N	1	i giochi violenti fanno istantaneamente aumentare il tasso di adrenalina . 	5.031
+254	crisi	N	1	Una crisi di identità può verificarsi a qualsiasi età . 	2.333
+255	sogno	N	2	Il tuo sogno di diventare un artista famoso potrebbe non essere così assurdo come sembra . 	2.733
+256	campo	N	6	Se verrai mai coinvolto in un campo di battaglia , ringrazierai i tuoi istruttori . 	4.781
+257	acqua	N	4	Se stai nuotando in acqua dolce , stabilisci la tua posizione . 	6.133
+258	casa	N	15	Il tempo necessario a costruire la tua casa in legno dipende interamente dalla tipologia di casa che stai costruendo . 	6.7
+259	lettera	N	4	Prova a scrivere la lettera m e traccia due linee verticali vicine e parallele . 	5.8
+260	flirtare	V	4	Un altro modo per flirtare con una ragazza è non prenderti troppo sul serio . 	4.575
+261	crisi	N	14	Che tu stia organizzando una cena elegante o informale , apparecchiare può metterti in crisi . 	2.615
+262	accordo	N	1	Gli accordi vengono prodotti suonando più note per volta , creando così un' armonia . 	4.9
+263	dormire	V	7	Se ceni tardi e vai subito a dormire non riuscirai a prendere sonno . 	5.444
+264	natura	N	7	Ricorda che stai provando a cambiare la natura della relazione , questo è già un grande passo . 	1.813
+265	inquinare	V	12	Spesso i passaggi necessari a rendere un oggetto disponibile richiedono mezzi che inquinano l’ aria . 	4.9
+266	porta	N	5	Assicurati di poter aprire la porta velocemente senza colpire nessuno . 	6.677
+267	distruggere	V	4	Puoi liberarti delle formiche distruggendo il loro nido , o mettendo delle esche per gli esemplari esploratori . 	6.278
+268	investire	V	3	Decidi se vuoi investire in un essiccatore per tenere la cucina ben fornita per tutto un anno . 	3.567
+269	pizza	N	1	La pizza al formaggio fatta in casa è uno dei piaceri semplici della vita . 	6.667
+270	concentrare	N	0	concentrandoti sugli aspetti positivi , riuscirai a essere più estroverso e osare di più nella vita . 	3
+271	pizza	N	2	Cuoci la pizza in forno per 15 minuti .	6.733
+272	amore	N	1	l' amore è cieco , perciò cerca di aprire volontariamente gli occhi . 	2
+273	commissione	N	16	l' aspetto negativo delle agenzie è il costo più alto , poiché bisogna pagare loro una commissione che viene compresa nel prezzo . 	5.156
+274	demonio	N	8	Ai concerti cerca di fare il simbolo del demonio con la mano per guadagnare punti . 	3.075
+275	spirito	N	12	Se non riesci a trovare un isopropile , va bene anche lo spirito metilato . 	6
+276	qualità	N	8	La direzione del sole avrà un impatto sulla qualità delle foto . 	4.333
+277	automobile	N	10	Alcuni meccanici si specializzano in particolari tipi di riparazione di automobili . 	6.467
+278	migliorare	V	7	Lo scrub rimuove le cellule morte e migliora la circolazione di tutto il corpo . 	4.194
+279	elemento	N	3	Se hai molti elementi in comune con una persona , sfrutta questi punti di incontro . 	2.967
+280	gioco	N	10	Potresti usare un' applicazione dello smartphone per giocare a un gioco da tavolo col tuo amico . 	5.45
+281	ostacolare	V	8	Mangiare tra un pasto e l' altro può ostacolare il processo di dimagrimento . 	3.4
+282	ispirare	V	1	Lasciati ispirare dall' alta moda . 	2.897
+283	terra	N	5	Poggia la palla medica per terra , davanti a te . 	6.516
+284	ostacolare	V	8	Ma non stringere troppo la fasciatura , non ostacolare la circolazione sanguigna . 	4.725
+285	campione	N	6	Il medico di solito preleva un campione di tessuto per farlo analizzare . 	6.438
+286	cuore	N	7	Lei preferisce i doni fatti con il cuore , non qualcosa che compri solo per fare bella figura . 	2.611
+287	qualità	N	9	Sviluppando una buona routine serale , potrai migliorare la qualità e la durata del sonno . 	2.967
+288	pensiero	N	8	Fai un respiro profondo per raccogliere i tuoi pensieri e placare le tue emozioni . 	1.906
+289	flirtare	V	6	Ci sono molte ragioni per voler flirtare con il proprio capo . 	4.5
+290	qualità	N	2	Bada alla qualità del tempo che trascorri con tuo figlio . 	2.645
+291	infornare	V	11	Se il tuo forno è grande abbastanza per due teglie , inforna entrambe le teglie di cupcake . 	5.969
+292	fiorire	V	6	Per piantare le rose e farle fiorire nella loro maestosità attieniti ai consigli di un esperto . 	5.9
+293	perspicacia	N	12	Il grande primo ministro inglese Winston Churchill era noto per la sua perspicacia . 	2.969
+294	onore	N	7	Nel Medioevo i cavalieri erano simbolo di onore e galanteria . 	2.056
+295	offendere	V	8	Mai parlare di politica , altrimenti rischi di offendere involontariamente gli altri . 	3.563
+296	coccolare	V	6	Anche solo pochi minuti passati a coccolare il tuo animaletto adorato possono sicuramente tirarti su . 	5.733
+297	accordo	N	5	Non è possibile andare d' accordo con tutti . 	3.436
+298	disturbare	V	10	Spazzola delicatamente la superficie senza muovere la pianta stessa o disturbare le sue radici . 	3.533
+299	irritare	V	7	Evita di usare il sapone , perché irriterà e seccherà la cute . 	5.7
+300	mutilare	V	12	Presta attenzione ai sintomi precoci del congelamento , per evitare di essere mutilati da questa dolorosa lesione . 	5.625
+301	colpire	V	3	Il diabete può colpire chiunque : giovani , anziani , maschi o femmine . 	3.889
+302	coppia	N	6	Ogni atomo di azoto presenta una coppia di elettroni e tre elettroni spaiati . 	4.1
+303	guerra	N	11	Quando i ragazzi assistono o vivono in un continuo stato di guerra con i genitori , possono nascere problemi comportamentali . 	2.6
+304	libro	N	5	Quasi tutte le biblioteche offrono libri elettronici da noleggiare per un certo periodo di tempo . 	5.718
+305	terra	N	6	Piazza l' albero sul cumulo di terra . 	6.75
+306	elemento	N	3	Alcune sostanze contengono elementi chimici difficili da rimuovere se non ricorri ad altri prodotti chimici . 	5.633
+307	obbedire	V	10	Quando i tuoi genitori ti dicono di fare qualcosa , obbedisci senza controbattere . 	3.867
+308	arte	N	5	Incidere il cuoio è un' arte artigianale che può essere appresa da tutti . 	3.75
+309	benedire	V	11	Ricorda che l' intelligenza e la cultura sono andate a farsi benedire . 	1.567
+310	attivare	V	7	Camminare anche solo per poco tempo può attivare la mente e il corpo . 	3.645
+311	lavare	V	6	Usa l' aspirapolvere , spolvera e lava tutta la casa . 	6.3
+312	immaginare	V	7	Per aumentare il grado di concentrazione , immagina uno scenario in cui devi avere una concentrazione assoluta . 	2.5
+313	natura	N	7	Prova questo metodo se vuoi che la natura segua il suo corso . 	3.333
+314	salvare	V	14	Le misure di sicurezza , come gli estintori e le pareti ignifughe , hanno salvato migliaia di vite . 	4.861
+315	verde	N	4	Scegli diversi tipi di verde per rendere il fogliame realistico e profondo . 	5.323
+316	luce	N	8	Se non hai bisogno di ulteriori fonti di luce per lavorare , spegnile . 	5.567
+317	causa	N	4	c' è sempre una causa di fondo per l’ ansia e il panico . 	3.125
+318	nascondere	V	10	Non è detto che tu conosca i motivi che si nascondono dietro a un comportamento passivo aggressivo . 	2.55
+319	mano	N	7	Tieni un secchio capiente a portata di mano . 	3.733
+320	affogare	V	11	l’ importante è che non siano troppo grandi , nessuno vuole affogare in litri di tè . 	2.6
+321	cucinare	V	2	Una volta cucinato l’ arrosto , nella pentola rimane un fondo con tutti i sughi della carne . 	6.333
+322	mercato	N	3	l' andamento del mercato azionario nel lungo periodo è sempre in crescendo . 	3.056
+323	vista	N	8	Oltre ad essere sgradevole all' olfatto e alla vista , la muffa può danneggiare la nostra salute . 	5.032
+324	strada	N	2	Cambia la strada che percorri per recarti nei luoghi abituali . 	6
+325	interesse	N	11	Suonando la chitarra , sarai spinto a coltivare maggiormente il tuo interesse per la musica . 	2.75
+326	porta	N	2	Apri una porta a qualcuno in difficoltà , fai volontariato , qualsiasi cosa ti riempia d’ amore . 	2.548
+327	donna	N	1	Molte donne si sentono esauste nelle prime tappe della gravidanza . 	6.1
+328	acqua	N	4	Igienizza le mani con acqua di rubinetto e sapone antibatterico . 	6.594
+329	morte	N	1	La morte è una perdita che tutti dobbiamo necessariamente affrontare nel corso della nostra vita . 	5.222
+330	avventura	N	11	Prepara il discorso che farai alla persona con cui hai un’ avventura ed esponi le cose in modo definitivo . 	3.563
+331	vittoria	N	8	Se sfuggi alla battaglia , devi scordarti della vittoria e della gioia che viene con essa . 	2.387
+332	risultato	N	12	Moltiplica l’ area della base per la sua altezza e dividi il risultato per 3 .	4.129
+333	affogare	V	8	Dopo la rottura , forse sarai tentata di affogare il dispiacere in cibi poco salutari . 	2.897
+334	viaggio	N	2	Per un viaggio sicuro in macchina , è importante limitare i movimenti dell’ animale . 	5.25
+335	avventura	N	6	Dal momento che la storia d' avventura è ormai conclusa , scrivine il titolo . 	3.167
+336	salvare	V	4	Talvolta arrossire potrebbe quindi salvarti da una spiacevole discussione . 	2.775
+337	libro	N	5	La critica esprime giudizi su libri , film e altre opere creative . 	6.125
+338	inquinare	V	12	Quando si sta insieme da parecchio tempo il rapporto rischia di essere inquinato dalla monotonia . 	2.033
+339	migliorare	V	6	Prepara una soluzione di risciacquo per migliorare la pelle e il pelo del tuo amico fedele . 	4.406
+340	mano	N	2	Lavati le mani con acqua calda e sapone dopo aver toccato la lesione . 	6.462
+341	colore	N	8	Ogni persona può avere gli occhi di diversi colori . 	5.95
+342	pitturare	V	16	Se possibile , cerca di pitturare la barca in una giornata con circa 15,5 – 26,5 °c .	5.744
+343	distruggere	V	0	distruggi il nido di vespe la notte . 	5.871
+344	interesse	N	19	Se moltiplichi il tasso di interesse per 100 ottieni la porzione di denaro che paghi a ogni rata come interesse sul capitale .	4.472
+345	amico	N	4	Anche se non siete amici , puoi visualizzare tutto ciò che una persona rende pubblico sul proprio profilo social . 	3.875
+346	storia	N	5	i personaggi possono rovinare la storia molto più della trama . 	2.906
+347	viaggio	N	5	Ti telefonerò dopo il mio viaggio in Spagna per raccontarti com’ è andata . 	4.968
+348	soffocare	V	3	Il cavallo può soffocare anche quando ingerisce eventuali pezzi di oggetti che tende a rosicchiare . 	5.813
+349	nascondere	V	6	Inizia con il correttore ( per nascondere borse e occhiaie ) , seguito da fondotinta e cipria . 	5.359
+350	fase	N	2	Durante la fase iniziale dell' astinenza , probabilmente sperimenterai un forte desiderio di farti . 	3.375
+351	disprezzare	V	8	l' eccesso di sicurezza è un modo di disprezzare le doti e le abilità degli altri . 	2.8
+352	motivo	N	6	è meglio spiegare all' insegnante il motivo per cui non si è riusciti a fare i compiti . 	2.6
+353	unità	N	5	Ricorda di indicare sempre le unità di misura appropriate . 	3.516
+354	vista	N	10	l’ approccio altruistico implica vedere la situazione dal punto di vista dell’ altra persona . 	2.065
+355	natura	N	1	La natura morta è uno dei primi progetti artistici per qualsiasi pittore in erba . 	4.641
+356	donna	N	1	Una donna ha un sacco di opzioni quando deve acquistare indumenti per andare in palestra . 	5.633
+357	notizia	N	3	Ricevere una brutta notizia è sempre qualcosa di devastante . 	3.71
+358	unità	N	4	i decibel sono un' unità logaritmica a base 10 .	2.6
+359	problema	N	6	Per trovare la soluzione finale del problema , prendi il logaritmo in base 10 e moltiplicalo per 10 .	4.194
+360	gioco	N	11	Non pensare solo ai giochi da tavolo , considera anche i giochi fondati sul brainstorming . 	5.744
+361	coppia	N	4	Un dittongo è una coppia di vocali che forma un singolo suono . 	4.611
+362	mano	N	4	Deve essere compilato a mano nell’ ufficio dove depositerai la richiesta oppure online . 	5.667
+363	sogno	N	4	Organizza un appuntamento da sogno senza spendere una fortuna . 	1.903
+364	investire	V	15	Può capitare di dover eseguire la manovra di rianimazione dopo che l' animale è stato investito da un veicolo . 	5.767
+365	mercato	N	12	La regola è non comprare mai le cose al loro prezzo di mercato . 	2.844
+366	strada	N	4	Se vuoi imboccare la strada del successo , devi porti traguardi realistici . 	2.367
+367	decomporre	V	5	La luce del sole fa decomporre più velocemente le feci ed evita problemi . 	5.419
+368	momento	N	5	Prenditi una pausa dai tuoi momenti di introspezione e concentra la tua attenzione sugli altri . 	2.975
+369	vittoria	N	11	Le risposte migliori sono quelle che ti permettono di ottenere una vittoria morale . 	2.129
+370	dolore	N	2	Se il dolore alle gambe è cronico , è opportuno farti visitare da un professionista . 	5.633
+371	guerra	N	6	Puoi anche ideare un grido di guerra , come “ per l’ esercito della libertà ! “ , o qualcosa del genere . 	3.875
+372	moglie	N	3	Far soffrire tua moglie per valutare la sua reazione è una pessima idea . 	6.375
+373	vita	N	4	Se cominciare una nuova vita fosse facile , le persone sarebbero in continua evoluzione . 	2.949
+374	momento	N	9	Porta l' acqua ad ebollizione e , da quel momento , aspetta circa 40 - 50 minuti .	4.103
+375	apprendere	V	8	Vedi la separazione come un’ opportunità da cui apprendere la lezione per superare la delusione . 	2.581
+376	infastidire	V	9	Non sbandierare il tuo desiderio di competizione , potresti infastidire gli altri corridori , che potrebbero sabotarti per non farti vincere . 	3.639
+377	idea	N	10	Ho bisogno di un quarto d' ora per schiarirmi le idee prima di continuare . 	2.133
+378	arrugginire	V	12	Se ti limiti a comunicare a monosillabi , probabilmente sarai un po' arrugginita e imbarazzata . 	2.7
+379	acqua	N	4	Raccogli un campione di acqua con un contenitore pulito . 	6.867
+380	disturbare	V	9	Gli scossoni , i dossi e le curve possono disturbare il sonno e farti sentire stanco . 	3.767
+381	ragazza	N	4	Puoi dimostrare a una ragazza che l' ami investendo un po' del tuo tempo in qualcosa che la faccia felice . 	5.563
+382	festa	N	2	Organizza la festa in luoghi destinati all’ intrattenimento di adolescenti quando gli invitati hanno meno di 18 anni .	5.417
+383	pensiero	N	5	Prova a sostituire tutti i pensieri negativi con altri positivi . 	2.5
+384	testa	N	10	Consulta il tuo medico curante in caso il mal di testa fosse più grave . 	6.188
+385	deludere	V	11	Pensa cosa c' è sotto ai tuoi timori , che sia deludere i tuoi genitori o non avere la vita che desideri . 	2.677
+386	mercato	N	11	e ' necessario conoscere a fondo il proprio settore e il mercato per determinare lo stipendio più appropriato . 	2.875
+387	successo	N	9	La somministrazione localizzata degli steroidi ha un tasso di successo del 95 % entro sei mesi dalla cura .	3.906
+388	vittima	N	6	Esistono diverse istituzioni che aiutano le vittime di abusi . 	5.875
+389	ragazzo	N	1	Molti ragazzi vengono accompagnati dai genitori il primo giorno di scuola 	6.355
+390	causa	N	5	l' aumento della temperatura è causa di stress per i pesci rossi . 	3.9
+391	gente	N	8	Parla del più e del meno con la gente che hai conosciuto da poco . 	5.433
+392	libro	N	5	Quando studi , leggi il libro di testo e gli appunti della lezione . 	6.385
+393	terra	N	2	Presenti sulla terra dall' epoca preistorica , esistono decine di migliaia di specie diverse di felci . 	5.975
+394	investire	V	3	Decidi quanto denaro investire nella tua rivista online . 	4.031
+395	automobile	N	6	La corretta installazione del seggiolino per automobile viene spesso sottovalutata e mette in pericolo la vita del neonato . 	6.462
+396	cuore	N	9	Controllare le tue pulsazioni ti permette di monitorare il cuore senza particolari strumenti . 	6.028
+397	attivare	V	13	Ruota le caviglie e allunga i quadricipiti e i polpacci , così da attivare la circolazione . 	4.581
+398	problema	N	7	La spaziatura tra i denti è un problema comune che viene affrontato con l’ apparecchio . 	4.188
+399	unità	N	12	Per attaccare la griglia di una ventola , collega il motore all' unità elettrica e fissalo con le viti fornite . 	5.821
+400	distruggere	V	1	Per distruggere questi documenti , non è sufficiente gettarli nella spazzatura . 	5.725
+401	vantaggio	N	6	Un registratore portatile digitale ha il vantaggio di essere relativamente piccolo e portatile . 	3.028
+402	ispirare	V	4	Il tuo comportamento deve ispirare serenità . 	3.077
+403	risultato	N	2	Analizza i risultati dell' ecocardiogramma per accertare irregolarità nelle dimensioni e nel movimento del cuore . 	5.967
+404	assicurare	V	8	Avvitando il bullone le alette si allargheranno , assicurando il rivetto al soffitto . 	4.6
+405	sogno	N	6	Quando ti svegli registra i tuoi sogni in un diario . 	3.355
+406	vita	N	12	Il modo in cui si sorride può influenzare la carriera , la vita sociale e i rapporti sentimentali . 	3.718
+407	migliorare	V	13	Se la tua televisione non è in alta definizione , la nitidezza può migliorare la qualità dell' immagine . 	4.594
+408	modo	N	2	Trova un modo per passare il tempo . 	3
+409	guerra	N	21	Se non puoi raccogliere soldi , aggiungi la tua voce a quelle che lottano per porre fine alla povertà o alla guerra . 	5.333
+410	strada	N	4	Decidere di intraprendere la strada della guarigione è già un enorme passo avanti . 	1.839
+411	notizia	N	8	Dai un' occhiata ai siti web che pubblicano notizie il più spesso possibile . 	4.419
+412	affogare	V	12	Molte persone tralasciano l' idea di imparare a nuotare perché temono di affogare . 	6
+413	famiglia	N	4	La maggior parte delle famiglie nelle aree urbane partecipano ad una raccolta differenziata . 	5.872
+414	obbedire	V	4	Addestra il cucciolo a obbedire a i tuoi comandi . 	4.5
+415	campo	N	2	Il loro campo d' azione è limitato dal tipo di legge da essi praticata . 	1.925
+416	ostacolare	V	6	La mancanza di intimità fisica potrebbe ostacolare la tua felicità . 	3.531
+417	arte	N	2	La migliore arte proviene dal comunicare la propria persona in maniera autentica . 	2.969
+418	dormire	V	2	Evita di dormire in posizione prona dopo il primo trimestre . 	5.967
+419	disturbare	V	2	Alcune pietanze disturbano il riposo notturno , mentre altre possono promuoverlo . 	4.077
+420	guarire	V	14	Devi imparare come applicare il ghiaccio nel modo corretto e assicurarti che la ferita guarisca velocemente . 	5.306
+421	aria	N	7	Non parlare alla tua amica con un' aria di sufficienza e non trattarla come se fosse debole . 	2.167
+422	successo	N	5	Per restare sulla strada del successo sono necessarie una buona pianificazione e un' onestà totale . 	2.438
+423	flirtare	V	7	Non è facile rompere il ghiaccio e flirtare con una ragazza che non conosci . 	4.41
+424	viaggio	N	8	Ricordi quanto sembravano terribili e noiosi i lunghi viaggi in auto quando eri un bambino ? 	4.871
+425	parte	N	6	Esercitati con il parkour , una parte fondamentale dell’ allenamento di un ninja ! 	3.692
+426	modo	N	5	Cerca di capire il suo modo di pensare . 	2.2
+427	unità	N	7	Se è il caso , pulisci l' unità esterna del condizionatore . 	5.9
+428	verde	N	13	Rosso e giallo formano l' arancione , mentre giallo e blu formano il verde . 	5.677
+429	libro	N	1	i libri , le riviste e i giornali spesso si accumulano in casa , soprattutto se ne acquisti tanti . 	6.2
+430	dolore	N	5	Certe convinzioni possono anche causare dolore e sofferenza . 	3.813
+431	amico	N	7	Se non riesci a separarti dai tuoi amici virtuali , tieniti in contatto con loro via chat. 	4.75
+432	onore	N	12	Se decidi di uccidere un animale , fai in modo di rendere onore al suo sacrificio . 	2
+433	nascondere	V	0	nascondi il cibo del cane per stimolarlo a cacciare in un ambiente simulato . 	5.281
+434	deludere	V	8	Se soffri per causa sua , se ti delude ripetutamente , considera di allontanarti da quella storia d’ amore . 	2.742
+435	crisi	N	4	La caffeina può scatenare crisi da astinenza , con sintomi quali mal di testa e difficoltà di concentrazione . 	4.2
+436	soffocare	V	5	Usa una coperta antincendio per soffocare il fuoco . 	4.844
+437	soffocare	V	3	Il cavallo può soffocare anche quando ingerisce eventuali pezzi di oggetti che tende a rosicchiare . 	5.406
+438	tradire	V	4	Cerca di capire perché tradisci il tuo partner. 	3.974
+439	tradire	V	5	Non fare minacce e non tradire le tue intenzioni quando hai deciso di combattere . 	2.846
+440	tradire	V	1	Quando tradisci la fiducia di qualcuno , questo può scatenare emozioni forti in entrambi. 	2.267
+441	tradire	V	12	Mediante il linguaggio del corpo e le espressioni del viso rischi di tradire le tue vere emozioni . 	2.533
+442	umiliare	V	2	Evita di umiliare i tuoi impiegati o le persone con cui lavori . 	3.688
+443	viaggiare	V	13	Tutti i cittadini statunitensi , neonati inclusi , devono avere un passaporto quando viaggiano in aereo all’ estero . 	5.944
+444	viaggiare	V	12	Utilizza la costante matematica della velocità della luce , velocità a cui viaggiano le onde elettromagnetiche . 	4.028
+445	viaggiare	V	3	Decidi se vuoi viaggiare su una nave da crociera grande o piccola . 	5.575
+446	viaggiare	V	9	Le placche presenti nelle arterie carotidi si staccano e viaggiano nel sistema sanguigno . 	4.5
+447	vincere	V	7	La squadra che ha totalizzato più punti vince la partita . 	5.256
+448	vincere	V	7	Cedi su alcune parti della discussione per vincere la disputa generale . 	3.385
+449	vincere	V	2	Tutti vorrebbero vincere la lotteria , ma la maggior parte di noi non azzecca un numero . 	3.967
+450	vincere	V	1	Potrai vincere le tue paure mettendole per iscritto . 	2.167
