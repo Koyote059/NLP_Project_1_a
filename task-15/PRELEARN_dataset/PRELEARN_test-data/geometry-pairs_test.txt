@@ -1,0 +1,200 @@
+Sistema di riferimento cartesiano,Retta,1
+Poligono,Segmento,1
+Pendenza topografica,Geometria,1
+Terna pitagorica,Teorema di Pitagora,1
+Circonferenza,Geometria,1
+Terna pitagorica,Triangolo rettangolo,1
+Bidimensionalità,Piano (geometria),1
+Dodecagono,Angolo,1
+Sistema di coordinate,Geometria,1
+Parallelogramma,Angolo,1
+Aquilone (geometria),Angolo,1
+Pentagono,Spigolo,1
+Perpendicolarità,Angolo,1
+Rettangolo,Punto (geometria),1
+Diametro,Raggio (geometria),1
+Rombo (geometria),Spigolo,1
+Triangolo rettangolo,Poligono,1
+Rombo (geometria),Parallelogramma,1
+Funzione trigonometrica,Retta,1
+Lunghezza di un arco,Distanza (matematica),1
+Rombo (geometria),Vertice (geometria),1
+Angolo retto,Geometria,1
+Seno (matematica),Funzione trigonometrica,1
+Funzione trigonometrica inversa,Segmento,1
+Triangolo equilatero,Angolo,1
+Punto medio,Punto (geometria),1
+Trapezio,Geometria,1
+Poliedro,Geometria,1
+Poliedro,Punto (geometria),1
+Sezione (geometria descrittiva),Geometria,1
+Triangolo equilatero,Geometria,1
+Ottagono,Segmento,1
+Diametro,Segmento,1
+Poliedro,Retta,1
+Decagono,Spigolo,1
+Auto similarità,Similitudine (geometria),1
+Spigolo,Retta,1
+Teorema della bisettrice,Punto (geometria),1
+Poligono stellato,Vertice (geometria),1
+Terna pitagorica,Retta,1
+Sistema di riferimento cartesiano,Bidimensionalità,1
+Pentagono,Punto (geometria),1
+Terna pitagorica,Poligono,1
+Teorema della bisettrice,Geometria,1
+Ennagono,Segmento,1
+Funzione trigonometrica inversa,Geometria,1
+Punto (geometria),Geometria,1
+Triangolo isoscele,Geometria,1
+Terna pitagorica,Angolo,1
+Parallelogramma,Segmento,1
+Rombo (geometria),Geometria,1
+Sistema di riferimento cartesiano,Angolo,1
+Triangolo equilatero,Retta,1
+Trapezio,Retta,1
+Asse di un segmento,Segmento,1
+Congruenza (geometria),Vertice (geometria),1
+Simmetria,Geometria,1
+Ettagono,Poligono,1
+Diametro,Retta,1
+Rettangolo,Poligono,1
+Poligono,Angolo,1
+Prisma,Retta,1
+Diagonale,Spigolo,1
+Triangolo,Punto (geometria),1
+Disuguaglianza triangolare,Retta,1
+Dodecagono,Geometria,1
+Endecagono,Retta,1
+Decagono,Segmento,1
+Spigolo,Punto (geometria),1
+Teorema di Pitagora,Punto (geometria),1
+Raggio (geometria),Retta,1
+Tangente (geometria),Triangolo,1
+Ettagono,Spigolo,1
+Rettangolo,Vertice (geometria),1
+Rotazione (matematica),Punto (geometria),1
+Rombo (geometria),Segmento,1
+Aquilone (geometria),Quadrilatero,1
+Vertice (geometria),Punto (geometria),1
+Seno (matematica),Segmento,1
+Tangente (geometria),Spigolo,1
+Piramide (geometria),Retta,1
+Bidimensionalità,Punto (geometria),1
+Lunghezza di un arco,Circonferenza,1
+Prisma,Segmento,1
+Esagono,Angolo,1
+Poliedro,Vertice (geometria),1
+Raggio (geometria),Geometria,1
+Parallelismo (geometria),Punto (geometria),1
+Prisma,Parallelismo (geometria),1
+Teorema della bisettrice,Spigolo,1
+Asse di un segmento,Retta,1
+Diagonale,Punto (geometria),1
+Decagono,Poligono,1
+Terna pitagorica,Geometria,1
+Terna pitagorica,Angolo retto,1
+Congruenza (geometria),Geometria,1
+Teorema della bisettrice,Triangolo,1
+Terna pitagorica,Vertice (geometria),1
+Disuguaglianza triangolare,Geometria,1
+Triangolo isoscele,Segmento,1
+Angolo,Bidimensionalità,0
+Quadrilatero,Parallelismo (geometria),0
+Perpendicolarità,Cono,0
+Angolo,Collinearità,0
+Punto medio,Arco (geometria),0
+Rettangolo,Triangolo rettangolo,0
+Circonferenza,Sezione (geometria descrittiva),0
+Similitudine (geometria),Sfera,0
+Raggio (geometria),Seno (matematica),0
+Quadrilatero,Collinearità,0
+Bidimensionalità,Ennagono,0
+Circonferenza,Vertice (geometria),0
+Corda (geometria),Angolo,0
+Simmetria,Parallelogramma,0
+Cilindro (geometria),Perpendicolarità,0
+Circonferenza,Asse di un segmento,0
+Perpendicolarità,Sistema di coordinate,0
+Asse di un segmento,Triangolo,0
+Dodecagono,Poliedro,0
+Parallelismo (geometria),Perpendicolarità,0
+Segmento,Vertice (geometria),0
+Rombo (geometria),Perpendicolarità,0
+Parallelismo (geometria),Angolo,0
+Perpendicolarità,Bidimensionalità,0
+Punto medio,Piano (geometria),0
+Tangente (geometria),Seno (matematica),0
+Quadrilatero,Disuguaglianza triangolare,0
+Retta,Piano (geometria),0
+Corda (geometria),Teorema di Pitagora,0
+Circonferenza,Seno (matematica),0
+Corda (geometria),Seno (matematica),0
+Ettagono,Raggio (geometria),0
+Collinearità,Cono,0
+Segmento,Collinearità,0
+Circonferenza,Bidimensionalità,0
+Triangolo,Lunghezza di un arco,0
+Traslazione (geometria),Distanza (matematica),0
+Perpendicolarità,Trapezio,0
+Disuguaglianza triangolare,Lunghezza di un arco,0
+Cilindro (geometria),Tangente (geometria),0
+Angolo,Distanza (matematica),0
+Asse di un segmento,Congruenza (geometria),0
+Rotazione (matematica),Distanza (matematica),0
+Rombo (geometria),Quadrato,0
+Teorema di Pitagora,Lunghezza di un arco,0
+Funzione trigonometrica,Corda (geometria),0
+Cilindro (geometria),Raggio (geometria),0
+Funzione trigonometrica inversa,Tangente (geometria),0
+Cilindro (geometria),Poliedro,0
+Parallelismo (geometria),Tangente (geometria),0
+Retta,Sistema di riferimento cartesiano,0
+Segmento,Poligono,0
+Geometria,Pendenza topografica,0
+Teorema di Pitagora,Terna pitagorica,0
+Geometria,Circonferenza,0
+Triangolo rettangolo,Terna pitagorica,0
+Piano (geometria),Bidimensionalità,0
+Angolo,Dodecagono,0
+Geometria,Sistema di coordinate,0
+Angolo,Parallelogramma,0
+Angolo,Aquilone (geometria),0
+Spigolo,Pentagono,0
+Angolo,Perpendicolarità,0
+Punto (geometria),Rettangolo,0
+Raggio (geometria),Diametro,0
+Spigolo,Rombo (geometria),0
+Poligono,Triangolo rettangolo,0
+Parallelogramma,Rombo (geometria),0
+Retta,Funzione trigonometrica,0
+Distanza (matematica),Lunghezza di un arco,0
+Vertice (geometria),Rombo (geometria),0
+Geometria,Angolo retto,0
+Funzione trigonometrica,Seno (matematica),0
+Segmento,Funzione trigonometrica inversa,0
+Angolo,Triangolo equilatero,0
+Bidimensionalità,Angolo,0
+Parallelismo (geometria),Quadrilatero,0
+Cono,Perpendicolarità,0
+Collinearità,Angolo,0
+Arco (geometria),Punto medio,0
+Triangolo rettangolo,Rettangolo,0
+Sezione (geometria descrittiva),Circonferenza,0
+Sfera,Similitudine (geometria),0
+Seno (matematica),Raggio (geometria),0
+Collinearità,Quadrilatero,0
+Ennagono,Bidimensionalità,0
+Vertice (geometria),Circonferenza,0
+Angolo,Corda (geometria),0
+Parallelogramma,Simmetria,0
+Perpendicolarità,Cilindro (geometria),0
+Asse di un segmento,Circonferenza,0
+Sistema di coordinate,Perpendicolarità,0
+Triangolo,Asse di un segmento,0
+Poliedro,Dodecagono,0
+Perpendicolarità,Parallelismo (geometria),0
+Vertice (geometria),Segmento,0
+Perpendicolarità,Rombo (geometria),0
+Angolo,Parallelismo (geometria),0
+Bidimensionalità,Perpendicolarità,0
+Piano (geometria),Punto medio,0

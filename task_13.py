@@ -5,7 +5,7 @@ import csv
 from scipy.stats import truncnorm
 
 ######################### Settings #########################################
-MAPPING = {
+CHOICES_MAPPING = {
     1: '1',
     2: "2",
     3: "3",

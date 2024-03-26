@@ -1,0 +1,99 @@
+Scarto interquartile,Mediana (statistica),1
+Rete bayesiana,Funzione di densità di probabilità,1
+Data mining,Outlier,1
+K-medoids,Clustering,1
+K-means,Apprendimento automatico,1
+Macchine a vettori di supporto,Funzione di densità di probabilità,1
+Discesa del gradiente,Massimo e minimo di una funzione,1
+F1 score,Campionamento statistico,1
+Rete bayesiana,Distribuzione di probabilità a priori,1
+Dbscan,Clustering,1
+Clustering gerarchico,Clustering,1
+Precisione e recupero,Ipotesi nulla,1
+Dbscan,Analisi dei dati,1
+Albero di decisione,Classificazione statistica,1
+Foresta casuale,Bootstrap (statistica),1
+Rete bayesiana,Funzione di verosimiglianza,1
+Data mining,Analisi della regressione,1
+Intervallo di confidenza,Campionamento statistico,1
+Test di verifica d'ipotesi,Campionamento statistico,1
+Retropropagazione dell'errore,Apprendimento automatico,1
+Test di verifica d'ipotesi,Popolazione statistica,1
+Significatività,Intervallo di confidenza,1
+Regole di associazione,Probabilità condizionata,1
+Test t,Intervallo di confidenza,1
+Campionamento casuale,Popolazione statistica,1
+Boosting,Apprendimento automatico,1
+Macchine a vettori di supporto,Classificazione statistica,1
+Clustering,Analisi dei dati,1
+Scarto interquartile,Variabilità,1
+Algoritmo apriori,Regole di associazione,1
+Rete bayesiana,Distribuzione condizionata,1
+Data mining,Test di verifica d'ipotesi,1
+K-means,Analisi dei dati,1
+Foresta casuale,Bagging,1
+Macchine a vettori di supporto,Apprendimento automatico,1
+Test di verifica d'ipotesi,Ipotesi nulla,1
+Receiver operating characteristic,Classificazione statistica,1
+Dbscan,Correlazione (statistica),1
+Funzione di verosimiglianza,Distribuzione condizionata,1
+Distribuzione condizionata,Probabilità condizionata,1
+Test di verifica d'ipotesi,Scarto quadratico medio,1
+Retropropagazione dell'errore,Rete neurale artificiale,1
+Correlazione (statistica),Scarto quadratico medio,1
+Rete bayesiana,Probabilità condizionata,1
+Significatività,Popolazione statistica,1
+Test t,Campionamento statistico,1
+Foresta casuale,Probabilità condizionata,1
+Rete neurale artificiale,Classificazione statistica,1
+Teorema di Bayes,Distribuzione condizionata,1
+Boosting,Funzione di densità di probabilità,1
+Intervallo di confidenza,Distribuzione congiunta,0
+Distribuzione di probabilità a priori,Probabilità condizionata,0
+Boosting,Data mining,0
+Rete neurale feed-forward,Discesa del gradiente,0
+Data mining,Clustering gerarchico,0
+Clustering,Outlier,0
+Retropropagazione dell'errore,Rete neurale feed-forward,0
+Foresta casuale,Boosting,0
+Clustering,Information retrieval,0
+Foresta casuale,Scarto quadratico medio,0
+K-medoids,K-means,0
+Scarto interquartile,Outlier,0
+Funzione di verosimiglianza,Intervallo di confidenza,0
+Macchine a vettori di supporto,Outlier,0
+Retropropagazione dell'errore,Apprendimento ensemble,0
+Distribuzione congiunta,Distribuzione condizionata,0
+Test di verifica d'ipotesi,Teorema di Bayes,0
+Albero di decisione,Regole di associazione,0
+Foresta casuale,Sistema esperto,0
+Boosting,Macchine a vettori di supporto,0
+Rapporto segnale/rumore,Scarto quadratico medio,0
+Analisi delle componenti principali,Rapporto segnale/rumore,0
+Clustering,Rete neurale artificiale,0
+Analisi delle componenti principali,Rete neurale artificiale,0
+K-means,Data mining,0
+Mediana (statistica),Scarto interquartile,0
+Funzione di densità di probabilità,Rete bayesiana,0
+Outlier,Data mining,0
+Clustering,K-medoids,0
+Apprendimento automatico,K-means,0
+Funzione di densità di probabilità,Macchine a vettori di supporto,0
+Massimo e minimo di una funzione,Discesa del gradiente,0
+Campionamento statistico,F1 score,0
+Distribuzione di probabilità a priori,Rete bayesiana,0
+Clustering,Dbscan,0
+Clustering,Clustering gerarchico,0
+Ipotesi nulla,Precisione e recupero,0
+Distribuzione congiunta,Intervallo di confidenza,0
+Probabilità condizionata,Distribuzione di probabilità a priori,0
+Data mining,Boosting,0
+Discesa del gradiente,Rete neurale feed-forward,0
+Clustering gerarchico,Data mining,0
+Outlier,Clustering,0
+Rete neurale feed-forward,Retropropagazione dell'errore,0
+Boosting,Foresta casuale,0
+Information retrieval,Clustering,0
+Scarto quadratico medio,Foresta casuale,0
+K-means,K-medoids,0
+Outlier,Scarto interquartile,0

@@ -1,0 +1,200 @@
+Equazione differenziale,Numero,1
+Asintoto,Retta,1
+Sistema di riferimento cartesiano,Retta,1
+Decomposizione in fratti semplici,Aritmetica,1
+Poligono,Segmento,1
+Teorema binomiale,Addizione,1
+Principio d'induzione,Dimostrazione matematica,1
+Funzione continua,Matematica,1
+Asintoto,Matematica,1
+Settore circolare,Geometria,1
+Aritmetica,Matematica,1
+Variabili dipendenti e indipendenti,Funzione (matematica),1
+Algebra,Numero,1
+Onda sinusoidale,Matematica,1
+Circonferenza,Geometria,1
+Somma vuota,Aritmetica,1
+Equazione lineare,Equazione,1
+Disuguaglianza,Matematica,1
+Disuguaglianza,Uguaglianza (matematica),1
+Equazione parametrica,Equazione,1
+Limite di una funzione,Funzione (matematica),1
+Teorema dei seni,Segmento,1
+Minore (algebra lineare),Matrice quadrata,1
+Sistema di coordinate,Geometria,1
+Seno (matematica),Matematica,1
+Limite di una successione,Matematica,1
+Potenza (matematica),Aritmetica,1
+Teorema delle radici razionali,Equazione,1
+Divisione dei polinomi,Moltiplicazione,1
+Teorema dei seni,Seno (matematica),1
+Equazione lineare,Matematica,1
+Perpendicolarità,Angolo,1
+Algebra,Matematica,1
+Triangolo rettangolo,Poligono,1
+Coefficiente binomiale,Moltiplicazione,1
+Reciproco,Moltiplicazione,1
+Sezione conica,Matematica,1
+Secante (geometria),Curva (matematica),1
+Angolo retto,Geometria,1
+Matrice triangolare,Matematica,1
+Geometria analitica,Sistema di riferimento cartesiano,1
+Reciproco,Matematica,1
+Sistema di equazioni lineari,Matematica,1
+Logaritmo naturale,Aritmetica,1
+Triangolo rettangolo,Retta,1
+Logaritmo,Matematica,1
+Eccentricità (matematica),Retta,1
+Equazione,Uguaglianza (matematica),1
+Crescita esponenziale,Numero,1
+Funzione iniettiva,Funzione (matematica),1
+Serie,Calcolo infinitesimale,1
+Somma vuota,Addizione,1
+Prodotto scalare,Aritmetica,1
+Addizione,Matematica,1
+Logaritmo,Numero,1
+Polinomio,Numero,1
+Funzioni pari e dispari,Matematica,1
+Trigonometria,Geometria,1
+Sistema di equazioni lineari,Uguaglianza (matematica),1
+Curva piana,Geometria,1
+Decomposizione in fratti semplici,Moltiplicazione,1
+Rettangolo,Matematica,1
+Matrice triangolare,Matrice,1
+Funzione trigonometrica inversa,Trigonometria,1
+Cilindro (geometria),Matematica,1
+Funzione trigonometrica inversa,Geometria,1
+Equazione lineare,Geometria,1
+Punto (geometria),Geometria,1
+Polinomio,Matematica,1
+Criterio di Cartesio,Addizione,1
+Addizione,Numero,1
+Teorema dei seni,Punto (geometria),1
+Limite di una funzione,Calcolo infinitesimale,1
+Sistema di riferimento cartesiano,Angolo,1
+Numero complesso,Numero,1
+Geometria,Matematica,1
+Posizione,Vettore (matematica),1
+Funzione monotona,Matematica,1
+Funzione periodica,Matematica,1
+Crescita esponenziale,Funzione (matematica),1
+Sistema di coordinate polari,Geometria,1
+Base (algebra lineare),Matematica,1
+Risoluzione di un'equazione,Numero,1
+Triangolo,Punto (geometria),1
+Divisione dei polinomi,Polinomio,1
+Teorema fondamentale dell'algebra,Matematica,1
+Divisione dei polinomi,Numero,1
+Cono,Matematica,1
+Equazione algebrica,Numero,1
+Raggio (geometria),Retta,1
+Prodotto scalare,Moltiplicazione,1
+Prodotto vettoriale,Numero,1
+Serie geometrica,Calcolo infinitesimale,1
+Moto circolare,Geometria,1
+Settore circolare,Matematica,1
+Equazione parametrica,Matematica,1
+Topologia prodotto,Aritmetica,1
+Espressione matematica,Matematica,1
+Divisione (matematica),Numero,1
+Disuguaglianza,Equazione,1
+Radice quadrata,Potenza (matematica),0
+Associatività,Numero complesso,0
+Numero reale,Disuguaglianza,0
+Addizione,Circonferenza,0
+Equazione,Teorema di Pitagora,0
+Funzione definita a tratti,Funzione inversa,0
+Numero razionale,Radicale (matematica),0
+Numero primo,Radice (matematica),0
+Associatività,Moltiplicazione,0
+Fuoco (geometria),Circonferenza,0
+Perpendicolarità,Sistema di coordinate,0
+Addizione,Numero razionale,0
+Potenza (matematica),Equazione di secondo grado,0
+Secante (geometria),Asintoto,0
+Addizione,Numero negativo,0
+Funzione costante,Funzioni pari e dispari,0
+Insieme,Numero,0
+Equazione lineare,Equazione di secondo grado,0
+Moltiplicazione,Numero razionale,0
+Logaritmo,Coefficiente angolare,0
+Notazione scientifica,Numero reale,0
+Polinomio,Circonferenza,0
+Funzione (matematica),Radicale (matematica),0
+Addizione,Commutatività,0
+Divisione (matematica),Moltiplicazione,0
+Sistema di coordinate,Numero complesso,0
+Circonferenza unitaria,Radicale (matematica),0
+Forza,Matematica,0
+Unione (insiemistica),Insieme vuoto,0
+Numero complesso,Radice (matematica),0
+Equazione lineare,Sistema di riferimento cartesiano,0
+Potenza (matematica),Reciproco,0
+Associatività,Commutatività,0
+Circonferenza unitaria,Numero intero,0
+Numero negativo,Divisione (matematica),0
+Potenza (matematica),Numero reale,0
+Numero intero,Reciproco,0
+Numeri pari e dispari,Funzioni pari e dispari,0
+Insieme,Numero reale,0
+Serie geometrica,Geometria,0
+Unione (insiemistica),Numero naturale,0
+Moltiplicazione,Funzione (matematica),0
+Circonferenza,Geometria analitica,0
+Numero reale,Radicale (matematica),0
+Fuoco (geometria),Ellisse,0
+Polinomio,Funzione (matematica),0
+Sistema di coordinate,Numero reale,0
+Composizione di funzioni,Funzioni pari e dispari,0
+Associatività,Funzione (matematica),0
+Circonferenza,Equazione di secondo grado,0
+Numero,Equazione differenziale,0
+Retta,Asintoto,0
+Retta,Sistema di riferimento cartesiano,0
+Aritmetica,Decomposizione in fratti semplici,0
+Segmento,Poligono,0
+Addizione,Teorema binomiale,0
+Dimostrazione matematica,Principio d'induzione,0
+Matematica,Funzione continua,0
+Matematica,Asintoto,0
+Geometria,Settore circolare,0
+Matematica,Aritmetica,0
+Funzione (matematica),Variabili dipendenti e indipendenti,0
+Numero,Algebra,0
+Matematica,Onda sinusoidale,0
+Geometria,Circonferenza,0
+Aritmetica,Somma vuota,0
+Equazione,Equazione lineare,0
+Matematica,Disuguaglianza,0
+Uguaglianza (matematica),Disuguaglianza,0
+Equazione,Equazione parametrica,0
+Funzione (matematica),Limite di una funzione,0
+Segmento,Teorema dei seni,0
+Matrice quadrata,Minore (algebra lineare),0
+Geometria,Sistema di coordinate,0
+Matematica,Seno (matematica),0
+Potenza (matematica),Radice quadrata,0
+Numero complesso,Associatività,0
+Disuguaglianza,Numero reale,0
+Circonferenza,Addizione,0
+Teorema di Pitagora,Equazione,0
+Funzione inversa,Funzione definita a tratti,0
+Radicale (matematica),Numero razionale,0
+Radice (matematica),Numero primo,0
+Moltiplicazione,Associatività,0
+Circonferenza,Fuoco (geometria),0
+Sistema di coordinate,Perpendicolarità,0
+Numero razionale,Addizione,0
+Equazione di secondo grado,Potenza (matematica),0
+Asintoto,Secante (geometria),0
+Numero negativo,Addizione,0
+Funzioni pari e dispari,Funzione costante,0
+Numero,Insieme,0
+Equazione di secondo grado,Equazione lineare,0
+Numero razionale,Moltiplicazione,0
+Coefficiente angolare,Logaritmo,0
+Numero reale,Notazione scientifica,0
+Circonferenza,Polinomio,0
+Radicale (matematica),Funzione (matematica),0
+Commutatività,Addizione,0
+Moltiplicazione,Divisione (matematica),0
