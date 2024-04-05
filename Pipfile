@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 numpy = "*"
 truncnorm = "*"
+jupyter = "*"
+replicate = "*"
 
 [dev-packages]
 
