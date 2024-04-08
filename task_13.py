@@ -6,17 +6,18 @@ import numpy as np
 import csv
 from scipy.stats import truncnorm
 
-######################### Settings #########################################
+######################### Hyperparameters ######################################
 
+# Categorical natural language labels
 # The name of the classes given for the word classification
 CLASSES_NAMES = {
     1: 'totalmente astratta',
-    2: "abbastanza astratta",
-    3: "parzialmente astratta",
-    4: "semiconcreta",
-    5: "parzialmente concreta",
-    6: "abbastanza concreta",
-    7: "totalmente concreta"
+    2: 'abbastanza astratta',
+    3: 'parzialmente astratta',
+    4: 'semiconcreta',
+    5: 'parzialmente concreta',
+    6: 'abbastanza concreta',
+    7: 'totalmente concreta'
 }
 
 # The Gaussian Standard Deviation used for sampling of the classes
@@ -24,22 +25,23 @@ GAUSSIAN_STD_DEV = 2
 # Number of  distractors to create
 DISTRACTORS = 3
 
-# Files of the Datasets To Process
-TSV_FILE_PATHS = [
-    "task-13/CONcreTEXT_trial_IT.tsv",
-    "task-13/CONcreTEXT_test_IT.tsv",
+######################### Settings ######################################
+
+
+# The dataset classes and the respective benchmark created
+# in the format (Dataset,Benchmark)
+FILES = [
+    ("task-13/CONcreTEXT_trial_IT.tsv", "task-13/CONcreTEXT-train-data.jsonl"),
+    ("task-13/CONcreTEXT_test_IT.tsv", "task-13/CONcreTEXT-test-data.jsonl"),
 
 ]
-
-# File of the benchmark to create
-BENCHMARK_FILE_PATH = "task-13/benchmark.jsonl"
 
 
 ##########################################################################
 
 def get_gaussian_samples(center: int, lower_limit: int, upper_limit, num_samples: int, std_dev: float) -> Set[int]:
     """
-    Samples some integer numbers using a gaussian distrbution. The "center" value is always included in the output.
+    Samples some integer numbers using a limited gaussian distrbution. The "center" value is always included in the output.
     :param center: the mean value of the Gaussian.
     :param lower_limit: Lower number to sample ( included ).
     :param upper_limit: Highest number to sample ( included ).
@@ -56,23 +58,25 @@ def get_gaussian_samples(center: int, lower_limit: int, upper_limit, num_samples
             samples.add(number)
     return samples
 
-def is_json_invalid(validated_jason: dict):
+
+def is_json_invalid(validated_jason: dict) -> bool:
     """
-    :param validated_jason: Checks for empty values.
+    Checks wether the dict is valid, by checking if it has any empty strings.
+    :param validated_jason:  dict to validate.
     :return: bool. True if there are empty values, False instead.
     """
     return any([key for key, value in validated_jason.items() if value == ""])
 
+
 def process_text(text: str, target_word: str, avg: float, classes_names: Dict[int, str], record_id: str):
     """
-    Processes a single text line from the dataset, creating a JSON string with the important values.
+    Processes the input parameters for creating a structured JSON string ( see return type ).
     :param text: str. The text to analyze. It contains the word to classify.
     :param target_word: str. The target word to classify in the text.
     :param avg: float. The average classification value given to the target word in the context.
     :param classes_names: Dict[int,str]. The possible classes names mappings.
     :param record_id: The ID of the given record.
-    :return: str. A string json of the following structure.
-
+    :return: str. A string json of the following structure:
     {
         "text": str, // The untouched text given in input.
         "target_word": str, // The untouched target word given in input.
@@ -98,31 +102,50 @@ def process_text(text: str, target_word: str, avg: float, classes_names: Dict[in
         "label": label,
         'id': record_id
     }
+
     return test
 
 
-def is_record_valid(target: str, text: str, avg: float, classes_numbers: int):
+def is_record_valid(target: str, text: str, avg: float, classes_numbers: int) -> bool:
+    """
+    Checks whether the record in the dataset is valid.
+    A record is valid if:
+        - 1<avg<=classes_numbers
+        - "target" is contained only once inside "text"
+        - If "target" and "text" are not empty
+    :param text: str. The text to analyze. It contains the word to classify.
+    :param target: str. The target word to classify in the text.
+    :param avg: float. The average classification value given to the target word in the context.
+    :param classes_numbers: int. The max number of classes used for classification of "target".
+    :return: bool. True if it's valid, False else.
+    """
+    words = text.split(' ')
+    target_occurrences = len([word for word in words if word == target])
+    if target_occurrences > 1:
+        return False
     return target != '' and text != '' and 1 < avg <= classes_numbers
 
 
 def create_benchmark():
     """
     Creates the benchmark by reading data from the datasets, processing
-    it and writing it to the benchmark file.
+    it and writing it to a created benchmark file.
     """
-    print("Creating benchmark: ", BENCHMARK_FILE_PATH)
 
-    # Opening benchmark file
-    with open(BENCHMARK_FILE_PATH, "w") as benchmark:
-        # Iterating over all the datasets
-        record_id = 0
-        for tsv_file in TSV_FILE_PATHS:
+    for dataset_file_path, benchmark_file_path in FILES:
+
+        print("Creating benchmark: ", benchmark_file_path)
+
+        # Opening benchmark file
+        with open(benchmark_file_path, "w") as benchmark:
+            # Iterating over all the datasets
+            record_id = 0
             # Reading from the dataset tsv_file to process information and write it in benchmark file
-            with open(tsv_file, "r") as tsv:
-                print("Reading data from ", tsv_file)
+            with open(dataset_file_path, "r") as tsv:
+                print("Reading data from ", dataset_file_path)
                 reader = csv.DictReader(tsv, delimiter='\t')
 
-                file_name = os.path.splitext(os.path.basename(tsv_file))[0]
+                file_name = os.path.splitext(os.path.basename(dataset_file_path))[0]
                 record_number = 0
                 for row in reader:
                     target = row["TARGET"]

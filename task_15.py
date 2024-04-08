@@ -3,12 +3,19 @@ import os
 import xml.etree.ElementTree as ET
 from typing import Dict, Tuple, List
 
-######################### Settings #########################################
+######################### Hyperparameters #########################################
+# The name of the binary classes
+CLASSES_NAMES = {
+    0: 'no',
+    1: 'si'
+}
+##############################à Settings ##############################################
 
-# The file containing the wikipedia definition of the words
+# The file containing the wikipedia definitions of the words
 WIKIPEDIA_FILE = "task-15/PRELEARN_dataset/PRELEARN_training_data/ITA_prereq-pages.xml"
 
 # The dataset classes and the respective benchmark created
+# in the format (Dataset,Benchmark)
 FILES = [
     ("task-15/PRELEARN_dataset/PRELEARN_training_data/data_mining-pairs_train.csv",
      "task-15/benchmarks/PRELEARN-data_mining-pairs_train.jsonl"),
@@ -30,18 +37,12 @@ FILES = [
 
 ]
 
-# The name of the binary classes given
-CLASSES_NAMES = {
-    0: 'no',
-    1: 'si'
-}
-
 
 ##########################################################################
 
 def extract_topics(xml_file_path: str) -> Dict[str, str]:
     """
-    Extract words description from a XML-based file.
+    Extract the words description from a XML-based file.
     :param xml_file_path: the path to the XML file containing the words description.
     :return: Dict[str,str]. A mapping between a word and its description ( topics[word] = description ).
     """
@@ -74,7 +75,9 @@ def extract_tasks(file_path: str) -> List[Tuple[str, str, int]]:
 
 def is_json_invalid(validated_jason: dict):
     """
-    :param validated_jason: Checks for empty values.
+    It checks if a dict is ivalid.
+    A dict is invalid if it has empty values inside.
+    :param validated_jason: dict. The dict to validate.
     :return: bool. True if there are empty values, False instead.
     """
     return any([key for key, value in validated_jason.items() if value == ""])
@@ -83,10 +86,23 @@ def is_json_invalid(validated_jason: dict):
 def process_tasks(tasks: List[Tuple[str, str, int]], topics: Dict[str, str], file_name: str) -> List[str]:
     """
     Processes the tasks into a list of JSON-like strings.
-    :param tasks: List[Tuple[str, str, int]]. The list of tasks to process.
-    :param topics: Dict[str, str]. The mapping between each word to its meaning.
+    :param tasks: List[Tuple[str, str, int]]. The list of tasks to process ( each one in the form of (text,text,number) ).
+    :param topics: Dict[str, str]. The mapping between each word to its meaning (in the form of topics[word] = meaning ).
     :param file_name: str. The file in which the dataset is stored. Used for ID generation.
     :return: List[str]. A list of JSON-style strings.
+    Each JSON-style string has the following structure:
+    {
+        "wikipedia_passage_concept_A": str. wikipedia_passage_A,
+        "concept_A": str. topic_A,
+        "wikipedia_passage_concept_B": str. wikipedia_passage_B,
+        "concept_B": str. topic_B,
+        "choices": [
+            CLASSES_NAMES[0], str
+            CLASSES_NAMES[1] str
+        ],
+        "target": int. index of right element in choices ( either 0 or 1 ),
+        "id": "{file_name}_task-15_{unique_id}"
+    }
 
     """
     processed_tasks = []
@@ -117,7 +133,7 @@ def process_tasks(tasks: List[Tuple[str, str, int]], topics: Dict[str, str], fil
 def create_benchmark():
     """
     Creates the benchmark by reading data from the datasets, processing
-    it and writing it to the benchmark file.
+    it and writing it to the created benchmark file.
     """
     print("Extracting wikipedia topics from: ", WIKIPEDIA_FILE)
     topics = extract_topics(WIKIPEDIA_FILE)
@@ -135,5 +151,3 @@ def create_benchmark():
 
 if __name__ == '__main__':
     create_benchmark()
-
-# TODO controlla data format

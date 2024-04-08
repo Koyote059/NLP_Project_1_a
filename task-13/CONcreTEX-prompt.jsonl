@@ -1,0 +1,4 @@
+{ "prompt": "Dato il seguente testo: '{{text}}', che livello di astrazione ha al suo interno la parola '{{target_word}}'? Scegli una tra le seguenti: {{choices}}"}
+{ "prompt": "Quanto astratta è la parola '{{target_word}}' all'interno della seguente frase: '{{text}}'? Scegli un valore tra i seguenti: {{choices}}"}
+{ "prompt": "Come classificheresti la parola '{{target_word}}' nel contesto: '{{text}}' tra le seguenti classi? {{choices}}"}
+
